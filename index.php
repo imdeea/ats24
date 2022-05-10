@@ -7,7 +7,7 @@ include 'inc_header.php';
 	<div class="tp-banner-container rs_fullwidth">
 		<div class="tp-banner">
 			<ul>
-				
+
 				<!-- SLIDE 1 -->
 				<li data-transition="fade" data-masterspeed="500" data-slotamount="7" data-delay="8000" data-title="Slide 1">
 					<!-- Background Image -->
@@ -18,7 +18,7 @@ include 'inc_header.php';
 
 					<div class="tp-caption sfb stt"
 						data-x="left" data-hoffset="15"
-						data-y="center" data-voffset="-75" 
+						data-y="center" data-voffset="-75"
 						data-speed="600" data-start="600"
 						data-endspeed="400" data-end="7900"
 						data-easing="Power3.easeInOut" data-endeasing=""
@@ -28,7 +28,7 @@ include 'inc_header.php';
 
 					<div class="tp-caption sfb stt"
 						data-x="left" data-hoffset="15"
-						data-y="center" data-voffset="35" 
+						data-y="center" data-voffset="35"
 						data-speed="700" data-start="800"
 						data-endspeed="500" data-end="7950"
 						data-easing="Power3.easeInOut" data-endeasing=""
@@ -38,7 +38,7 @@ include 'inc_header.php';
 
 					<div class="tp-caption sfb stt"
 						data-x="left" data-hoffset="15"
-						data-y="center" data-voffset="140" 
+						data-y="center" data-voffset="140"
 						data-speed="800" data-start="1000"
 						data-endspeed="600" data-end="8000"
 						data-easing="Power3.easeInOut" data-endeasing=""
@@ -46,7 +46,7 @@ include 'inc_header.php';
 						<a href="/about.php" class="btn-slider">About Us</a>
 					</div>
 
-					
+
 				</li>
 
 
@@ -56,10 +56,10 @@ include 'inc_header.php';
 				   <img src="images/sample_4.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
 				   <div class="bg-overlay op5"></div>
 
-				   
+
 					<div class="tp-caption sfr stb"
 						data-x="right" data-hoffset="-15"
-						data-y="center" data-voffset="0" 
+						data-y="center" data-voffset="0"
 						data-speed="900" data-start="600"
 						data-endspeed="400" data-end="7980"
 						data-easing="Power3.easeInOut" data-endeasing=""
@@ -69,7 +69,7 @@ include 'inc_header.php';
 
 					<div class="tp-caption sfr stb"
 						data-x="right" data-hoffset="-15"
-						data-y="center" data-voffset="70" 
+						data-y="center" data-voffset="70"
 						data-speed="1000" data-start="1000"
 						data-endspeed="400" data-end="7900"
 						data-easing="Power3.easeInOut" data-endeasing=""
@@ -297,5 +297,67 @@ include 'inc_header.php';
 			</div>
 		</div>
 	</section>
+	<section class="page-clients page-clients-b section-bg mt0 mb0" style="background: #fff;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+
+				<article class="blog-post-content">
+
+						<h3 class="title-small mb40">ATS is an approved converter / fabricator of several manufacturers,<br/> with access to numerous manufacturers.</h3>
+
+				</article>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.saint-gobain-northamerica.com/"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.3m.com/"><img src="images/vendors/3m.png" alt="3M"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://afcmaterials.com/"><img src="images/vendors/afc.png" alt="AFC"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.breydenproducts.com/"><img src="images/vendors/breyden.jpg" alt="Breyden"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://rogerscorp.com/elastomeric-material-solutions/dewal-products"><img src="images/vendors/dewal.jpg" alt="Dewal"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.nitto.com/us/en/"><img src="images/vendors/nitto.jpg" alt="Nitto"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.scapa.com/"><img src="images/vendors/scapa.png" alt="Scapa"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.stockwell.com/"><img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.rogerscorp.com/"><img src="images/vendors/rogers.png" alt="Rogers Corporation"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.saylorproducts.com/"><img src="images/vendors/saylor.png" alt="Saylor"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					<a href="https://www.sheldahl.com/"><img src="images/vendors/sheldahl.png" alt="Sheldahl"></a>
+				</div>
+				<div class="col-xs-6 col-sm-3 xs-box">
+					Many Others...
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<style>
+	.xs-box { height:120px; }
+	.xs-box img { max-height:70px; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
+	.xs-box a {
+	    padding: 0;
+	    background-color: transparent;
+	    opacity: 1;
+	}
+	</style>
 
 <? include 'inc_footer.php'; ?>

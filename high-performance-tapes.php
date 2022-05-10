@@ -1,11 +1,11 @@
-<? $title = 'High Performance Tapes'; include 'inc_header.php'; ?>	
+<? $title = 'High Performance Tapes'; include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">
 		<div class="container">
 			<div class="row mb30">
 				<div class="col-md-7 col-sm-8">
 					<h1 class=" mb20">High Performance Pressure Sensitive Tapes</h1>
-					<p class="mb30">Advanced Technology Supply, Inc. has a comprehensive line of pressure sensitive tapes, and a complete array of fabrication capabilities including single knife and rewind slitting, rotary die cutting, and liner and adhesive application. These capabilities permit us to stock bulk inventory of tape "logs", "jumbos", liner stock, and all the essentials needed to complete your order per your specification.</p>				
+					<p class="mb30">Advanced Technology Supply, Inc. has a comprehensive line of pressure sensitive tapes, and a complete array of fabrication capabilities including single knife and rewind slitting, rotary die cutting, and liner and adhesive application. These capabilities permit us to stock bulk inventory of tape "logs", "jumbos", liner stock, and all the essentials needed to complete your order per your specification.</p>
 				</div>
 				<div class="col-md-5 col-sm-3">
 					<img class="blog-post-image" src="/images/p0959.png" alt="High Performance Tapes" title="High Performance Tapes"/>
@@ -34,64 +34,6 @@
 		</div>
 	</section>
 
-	<section class="page-clients page-clients-b section-bg mt0 mb0" style="background: #fff;">
-		<div class="container">
-			<div class="row"> 
-				<div class="col-md-12">				
-				
-				<article class="blog-post-content">
-
-						<h3 class="title-small mb40">ATS is an approved converter / fabricator of several manufacturers,<br/> with access to numerous manufacturers.</h3>
-
-				</article>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/saint-gobain.png" alt="Saint-Gobain">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/3m.png" alt="3M">
-				</div>		
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/afc.png" alt="AFC">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/breyden.jpg" alt="Breyden">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/dewal.jpg" alt="Dewal">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/nitto.jpg" alt="Nitto">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/scapa.png" alt="Scapa">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/rogers.png" alt="Rogers Corporation">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/saylor.png" alt="Saylor">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<img src="images/vendors/sheldahl.png" alt="Sheldahl">
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					Many Others...
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<style>
-	.xs-box { height:120px; }
-	.xs-box img { max-height:70px; -webkit-filter: grayscale(100%); filter: grayscale(100%); }
-	</style>
-	
 	<section class="section">
 		<div class="container">
 			<div class="row">
@@ -100,10 +42,7 @@
 				</div>
 			</div>
 		</div>
-	</section> 
+	</section>
 
 
 <? include 'inc_footer.php'; ?>
-
-
-
