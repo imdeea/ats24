@@ -1,4 +1,7 @@
-<? $title = 'High Performance Tapes'; include 'inc_header.php'; ?>
+<?
+$title = 'High Performance Pressure Sensitive Tapes - Available at ATS 24';
+$meta_descr = 'ATS 24, Inc. has a comprehensive line of pressure-sensitive tapes, with an array of fabrication capabilities such as single knife and rewind slitting. ';
+include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">
 		<div class="container">
