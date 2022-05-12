@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 			<div class="row col-p0 max_height sm_max_height">
 				<div class="col-sm-12 col-md-4">
 					<a href="/custom-rewinding-ptfe-tape-rolls.php">
-						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/p0959.png')">
+						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/Custom_Rewinding_of_PTFE_Tape_Rolls_for_the_Aircraft_Industry.png')">
 							<div class="bg-overlay"></div>
 							<div class="row col-p0">
 								<div class="col-sm-12">
@@ -30,7 +30,7 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-sm-12 col-md-4">
 					<a href="/custom-slitting-rewinding-ptfe-tape-rolls.php">
-						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/p0959.png')">
+						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/Custom_Slitting_&_Rewinding_of_PTFE_Tape_Rolls_for_the_Aircraft_Repair_and_Overhaul_Industry.png')">
 							<div class="bg-overlay"></div>
 							<div class="row col-p0">
 								<div class="col-sm-12">
@@ -42,7 +42,7 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-sm-12 col-md-4">
 					<a href="/custom-die-cutting-polyester-masking-tape.php">
-						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/p0959.png')">
+						<div class="box-services-d bg-img el_max_height" style="background-image: url('/images/Custom_Die_Cutting_of_Polyester_Masking_Tape_for_the_Electronics_Industry.png')">
 							<div class="bg-overlay"></div>
 							<div class="row col-p0">
 								<div class="col-sm-12">

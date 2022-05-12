@@ -36,7 +36,7 @@ include 'inc_header.php'; ?>
 
 				<div class="col-md-5 col-sm-3">
 
-					<img class="blog-post-image" src="/images/p0959.png" alt="High Performance Tapes" title="High Performance Tapes" width="900" height="551">
+					<img class="blog-post-image" src="/images/construction-windows-doors-applications.png" alt="Construction/ Windows/ Doors Industry" title="Construction/ Windows/ Doors Industry" width="450" height="338">
 
 				</div>
 
