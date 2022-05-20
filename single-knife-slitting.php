@@ -18,11 +18,11 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Single Knife Slitting Services</h1>
 
-					<p class="mb30">Advanced Technology Supply, Inc. offers ISO compliant single knife slitting services that meet the needs of multiple industries, including the military. Just like with our rewind slitting operations, we can stock our own materials, but can also slit and rewound material provided by our clients. However, unlike rewind slitting, single knife slitting allows us to cut through foil materials. Moreover, due to reduced set up time, single knife slitting eliminates the need for large minimum order quantities.
+					<p class="mb30">Advanced Technology Supply, Inc. offers ISO compliant <b>single knife slitting services</b> that meet the needs of multiple industries, including the military. Just like with our rewind slitting operations, we can stock our own materials, but can also slit and rewound material provided by our clients. However, unlike rewind slitting, single knife slitting allows us to cut through foil materials. Moreover, due to reduced set up time, single knife slitting eliminates the need for large minimum order quantities.
 
 					<br><br>
 
-					Single knife slitting is used for tapes, films, fabrics, and elastomers. These materials are slit to width from a master roll (log rolls) measuring between .125 of an inch to 58 inches wide. Typical width tolerances are (+/-) .031 of an inch, depending on the material being slit. However, some products can be single knife slit with tolerance as close as (+/-) .010 of an inch. <a href="contact.php">Contact</a> Advanced Technology today to learn more about our single knife slitting capabilities.
+					<b>Single knife slitting is used for tapes, films, fabrics, and elastomers</b>. These materials are slit to width from a master roll (log rolls) measuring between .125 of an inch to 58 inches wide. Typical width tolerances are (+/-) .031 of an inch, depending on the material being slit. However, some products can be single knife slit with tolerance as close as (+/-) .010 of an inch. <a href="contact.php">Contact</a> Advanced Technology today to learn more about our single knife slitting capabilities.
 
 					</p>
 

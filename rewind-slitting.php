@@ -18,11 +18,11 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Rewind Slitting Services</h1>
 
-					<p class="mb30">Advanced Technology Supply, Inc. performs a variety of rewind slitting services, including perforating, razor slitting, and surface winding. This highly effective method of cutting tape offers tight, (+/-) .005 of an inch precision tolerances and crisp adhesive edges, and allows us to cut the precise roll width and length measurements required by our client. We can manage small to medium production runs within same day lead times (if inventory is in stock).
+					<p class="mb30">Advanced Technology Supply, Inc. performs a variety of <b>rewind slitting services</b>, including perforating, razor slitting, and surface winding. This highly effective method of cutting tape offers tight, (+/-) .005 of an inch precision tolerances and crisp adhesive edges, and allows us to cut the precise roll width and length measurements required by our client. We can manage small to medium production runs within same day lead times (if inventory is in stock).
 
 					<br></br>
 
-					Our rewind slitting operations work with a wide variety of tape products, including transfer, single and double coated, duct, and masking - just to name a few. We also work with a wide variety of alternative substances. For example, our single knife slitting is also used for films, fabrics, and elastomers. At Advanced Technology Supply, Inc., we stock our own material, but can also slit and rewound material provided by our clients. Our top-notch rewind slitting services have met the needs of multiple industries, including the military. <a href="contact.php">Contact</a> our company today to learn more!
+					Our rewind slitting operations work with a wide variety of tape products, including transfer, single and double coated, duct, and masking - just to name a few. We also work with a wide variety of alternative substances. For example, our <b>single knife slitting is also used for films, fabrics, and elastomers</b>. At Advanced Technology Supply, Inc., we stock our own material, but can also slit and rewound material provided by our clients. Our top-notch rewind slitting services have met the needs of multiple industries, including the military. <a href="contact.php">Contact</a> our company today to learn more!
 
 					</p>
 

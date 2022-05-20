@@ -18,11 +18,11 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Steel Rule Die Cutting Services</h1>
 
-					<p class="mb30">Steel rule die cutting is one of the most cost-effective ways to die cut elastomers measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness. Our steel rule die cutting machinery meets standard tolerances of (+/-) .015 of an inch, but tolerances of (+/-) .010 of an inch or less can also be achieved if the pattern is laser scribed into the wood rather than routed. Please note that edge concavity is typical when steel rule die cutting is performed on soft materials, due to the compression of the elastomer by the die before cutting is initiated.
+					<p class="mb30">Steel rule die cutting is one of the most cost-effective ways to <b>die cut elastomers</b> measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness. Our steel rule die cutting machinery meets standard tolerances of (+/-) .015 of an inch, but tolerances of (+/-) .010 of an inch or less can also be achieved if the pattern is laser scribed into the wood rather than routed. Please note that edge concavity is typical when steel rule die cutting is performed on soft materials, due to the compression of the elastomer by the die before cutting is initiated.
 
 					<br/><br/>
 
-					With the ability to manage small to medium sized production runs within short lead times, our ISO compliant steel rule die cutting operations meet military specifications and have served the needs of multiple industries. We even offer same day delivery if inventory is in stock. We can also help clients select the right material for their unique application.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about out steel rule die cutting services.
+					With the ability to manage small to medium sized production runs within short lead times, our <b>ISO compliant steel rule die cutting operations meet military specifications</b> and have served the needs of multiple industries. We even offer same day delivery if inventory is in stock. We can also help clients select the right material for their unique application.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about out steel rule die cutting services.
 
 					</p>
 

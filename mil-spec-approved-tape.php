@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">MIL-SPEC Approved Tape and Rubber Materials</h1>
 
-					<p class="mb30">In an effort to standardize and approve materials for use by the branches of military service and the US Department of Defense, Mil Specs were designed for engineers to locate and choose materials for specific military applications. Those specs have been tested and approved for application within categories of material. Advanced Technology Supply, Inc. can supply tape products and rubber products that meet Mil Spec requirements.</p>
+					<p class="mb30">In an effort to standardize and approve materials for use by the branches of military service and the US Department of Defense, Mil Specs were designed for engineers to locate and choose materials for specific military applications. Those specs have been tested and approved for application within categories of material. Advanced Technology Supply, Inc. can <b>supply tape products</b> and rubber products that meet <b>Mil Spec requirements</b>.</p>
 
 				</div>
 

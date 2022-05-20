@@ -8,10 +8,10 @@ include 'inc_header.php'; ?>
 			<div class="row mb30">
 				<div class="col-md-7 col-sm-8">
 					<h1 class=" mb20">High Performance Pressure Sensitive Tapes</h1>
-					<p class="mb30">Advanced Technology Supply, Inc. has a comprehensive line of pressure sensitive tapes, and a complete array of fabrication capabilities including single knife and rewind slitting, rotary die cutting, and liner and adhesive application. These capabilities permit us to stock bulk inventory of tape "logs", "jumbos", liner stock, and all the essentials needed to complete your order per your specification.</p>
+					<p class="mb30">Advanced Technology Supply, Inc. has a comprehensive line of <b>pressure sensitive tapes</b>, and a complete array of fabrication capabilities including <a href="https://ats24.com/single-knife-slitting.php">single knife</a> and <a href="https://ats24.com/rewind-slitting.php">rewind slitting</a>, <a href="https://ats24.com/rotary-die-cutting.php">rotary die cutting</a>, and liner and adhesive application. These capabilities permit us to stock bulk inventory of tape "logs", "jumbos", liner stock, and all the essentials needed to complete your order per your specification.</p>
 				</div>
 				<div class="col-md-5 col-sm-3">
-					<img class="blog-post-image" src="/images/p0959.png" alt="High Performance Tapes" title="High Performance Tapes"/>
+					<img class="blog-post-image" src="/images/p0959.png" alt="High Performance Tapes" title="High Performance Tapes" width="900" height="551">
 				</div>
 			</div>
 		</div>

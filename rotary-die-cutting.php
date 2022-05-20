@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Rotary Die Cutting Services</h1>
 
-					<p class="mb30">Successfully meeting the needs of multiple industries, including the military, our rotary die cutting services can be applied to a wide assortment of materials, including foil, fiber, plastic, and rubber. Our rotary die cutting machinery produces pressure sensitive tapes, fabrics, films, and thin elastomers "kiss cut" to a client's particular shape or pattern. We can also use our rotary die cutting operations to cut a variety of tape, such as single and double coated, transfer, duct, and masking. We can slice tape measuring up to 100 yards long and between 0.5 to 25 millimeters thick - meeting tight precision tolerances of (+/-) .010 of an inch.
+					<p class="mb30">Successfully meeting the needs of multiple industries, including the military, our <b>rotary die cutting services</b> can be applied to a wide assortment of materials, including foil, fiber, plastic, and rubber. Our rotary die cutting machinery produces pressure sensitive tapes, fabrics, films, and thin elastomers "kiss cut" to a client's particular shape or pattern. We can also use our rotary die cutting operations to cut a variety of tape, such as single and double coated, transfer, duct, and masking. We can <b>slice tape</b> measuring up to 100 yards long and between 0.5 to 25 millimeters thick - meeting tight precision tolerances of (+/-) .010 of an inch.
 
 					<br/><br/>
 

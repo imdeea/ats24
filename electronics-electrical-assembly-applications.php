@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Applications for the Electronics/ Electrical Assembly Industry</h1>
 
-					<p class="mb30">Manufacturers of electronic components, wire harnesses and electrical assemblies are invited to take advantage of the range of specialty products for the electrical sector manufactured and converted by Advanced Technology Supply, Inc. Our electrical solutions include electrical insulation materials/tapes for electrical transformers, coils and capacitors, along with thermal interface products, transfer tapes, and PCB masking tape for printed circuit board fabrication, conformal coating and electronic assembly/wave solder.
+					<p class="mb30">Manufacturers of electronic components, wire harnesses and electrical assemblies are invited to take advantage of the range of specialty products for the electrical sector manufactured and converted by Advanced Technology Supply, Inc. <b>Our electrical solutions include electrical insulation materials/tapes for electrical transformers, coils and capacitors</b>, along with thermal interface products, transfer tapes, and PCB masking tape for printed circuit board fabrication, conformal coating and electronic assembly/wave solder.
 
 					<br><br>
 
@@ -26,7 +26,7 @@ include 'inc_header.php'; ?>
 
 					<br><br>
 
-					PCB masking tape is developed to protect the printed circuits from solder during component mounting. Our tapes have excellent solder resistance and withstand the applications rigorous high temperature and chemical conditions. The tape features excellent bonding to protect during processing but is easily removed with no residue left behind. Tapes are available in customers desired width since we custom slit in house. A variety of thicknesses are also available to meet demanding customer requirements. All of our products and processes are held to the highest standards in industry, maintaining ISO certification and Mil-Spec compliance. For more information about our line of electronic-specific products please <a href="contact.php">contact</a> us directly.
+					PCB masking tape is developed to protect the printed circuits from solder during component mounting. Our tapes have excellent solder resistance and withstand the applications rigorous high temperature and chemical conditions. The tape features excellent bonding to protect during processing but is easily removed with no residue left behind. <b>Tapes are available in customers desired width since we custom slit in house</b>. A variety of thicknesses are also available to meet demanding customer requirements. All of our products and processes are held to the highest standards in industry, maintaining ISO certification and Mil-Spec compliance. For more information about our line of electronic-specific products please <a href="contact.php">contact</a> us directly.
 
 					</p>
 

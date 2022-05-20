@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Applications for Industrial Products</h1>
 
-					<p class="mb30">At Advanced Technology Supply, Inc. we offer a range of products highly suited for industrial use. Applications for our tape and rubber products include: splicing tapes, paint and powder coat masking, release or slide/wear surface, abrasion resistance, cushioning, vibration and sound dampening, thermal insulation, thermal transfer, moisture barrier, dust and liquid gasketing, gap filling and other applications for end product/OEM production. Superior material holding is possible with our line of splicing tapes which bond to a wide variety of surfaces. Varied material offering provide a wide selection of colors as well as solutions for temporary and or long terms holding/ bonding.
+					<p class="mb30">At Advanced Technology Supply, Inc. we offer a range of products highly suited for <b>industrial</b> use. Applications for our tape and rubber products include: <b>splicing tapes, paint and powder coat masking, release or slide/wear surface, abrasion resistance, cushioning, vibration and sound dampening, thermal insulation, thermal transfer, moisture barrier, dust and liquid gasketing, gap filling and other applications for end product/OEM production</b>. Superior material holding is possible with our line of splicing tapes which bond to a wide variety of surfaces. Varied material offering provide a wide selection of colors as well as solutions for temporary and or long terms holding/ bonding.
 
 					<br><br>
 

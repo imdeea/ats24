@@ -22,7 +22,7 @@ include 'inc_header.php'; ?>
 
 					<br><br>
 
-					Our water jet cutting operations eliminate the need for tooling. Therefore, water jet cutting can quicken lead times and save initial costs, particularly if your design is unproven. We can even provide rapid initial prototypes, especially when supplied with electronic drawing files. With our water jet cutting technology, we can cut washers as small as .25 of an inch and other parts as small as .5 of an inch square. Meeting the needs of multiple industries, from semiconductor to automotive, our ISO compliant water jet cutting operations meet military specifications and can manage all low volume production jobs within a quick turnaround period. We are better suited for low to medium-volume production with this service.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about our water jet cutting operations!
+					Our water jet cutting operations eliminate the need for tooling. Therefore, water jet cutting can quicken lead times and save initial costs, particularly if your design is unproven. We can even provide rapid initial prototypes, especially when supplied with electronic drawing files. With our water jet cutting technology, we can cut washers as small as .25 of an inch and other parts as small as .5 of an inch square. Meeting the needs of multiple industries, from semiconductor to automotive, our ISO compliant <b>water jet cutting operations meet military specifications</b> and can manage all low volume production jobs within a quick turnaround period. We are better suited for low to medium-volume production with this service.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about our water jet cutting operations!
 
 					</p>
 

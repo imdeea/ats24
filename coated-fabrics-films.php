@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Coated Fabrics and Films</h1>
 
-					<p class="mb30">Advanced Technology Supply, Inc.fabricates belts from Teflon and Silicone Coated Fabrics.
+					<p class="mb30">Advanced Technology Supply, Inc.fabricates belts from Teflon and <b>Silicone Coated Fabrics</b>.
 
 					<br/><br/>
 

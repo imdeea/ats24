@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Applications for the Construction/ Windows/ Doors Industry</h1>
 
-					<p class="mb30">Customers in the construction industry can trust the product knowledge and technical expertise at Advanced Technology Supply, Inc. to provide high quality materials and value added services developed specifically for the industry. Manufacturers of vinyl windows often require PTFE tapes when heat sealing corners on windows, Hibond tapes are often used to attach muntin bar to glass in window production.
+					<p class="mb30">Customers in the <b>construction industry</b> can trust the product knowledge and technical expertise at Advanced Technology Supply, Inc. to provide high quality materials and value added services developed specifically for the industry. Manufacturers of vinyl windows often require PTFE tapes when heat sealing corners on windows, Hibond tapes are often used to attach muntin bar to glass in window production.
 
 					<br><br>
 

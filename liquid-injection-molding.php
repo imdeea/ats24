@@ -18,11 +18,11 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Liquid Injection Molding Services</h1>
 
-					<p class="mb30">In order to best meet the needs of our customers, Advanced Technology Supply, Inc. collaborates with Stockwell Elastomerics to perform silicone liquid injection molding operations. We specialize in LIM for silicone and fluorosilicone elastomers. Liquid silicone rubber is also a strong candidate for gaskets, seals, and cushioning pads in electronic portable and hand-held devices that need to function within challenging outdoor conditions. Silicone liquid injection molding offers fast cure cycles, and quick design capabilities for production cycles.
+					<p class="mb30">In order to best meet the needs of our customers, Advanced Technology Supply, Inc. collaborates with Stockwell Elastomerics to perform silicone liquid injection molding operations. We specialize in LIM for <b>silicone and fluorosilicone elastomers</b>. Liquid silicone rubber is also a strong candidate for gaskets, seals, and cushioning pads in electronic portable and hand-held devices that need to function within challenging outdoor conditions. Silicone liquid injection molding offers fast cure cycles, and quick design capabilities for production cycles.
 
 					<br/><br/>
 
-					In addition, our liquid injection molding services allow us to apply pressure sensitive adhesives, tabs, or full pressure sensitive backings to custom molded components. Capable of working with a number of design files, including CAD/CAM formats, we can employ our liquid injection molding services to the construction of a variety of products, ranging from printed circuit boards and communication equipment to computers and hardware.
+					In addition, our liquid injection molding services allow us to apply pressure sensitive adhesives, tabs, or full pressure sensitive backings to custom molded components. Capable of working with a number of design files, including CAD/CAM formats, we can employ our <b>liquid injection molding services</b> to the construction of a variety of products, ranging from printed circuit boards and communication equipment to computers and hardware.
 
 					<br/><br/>
 

@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Silicone Rubber, Sponge, and Elastomers</h1>
 
-					<p class="mb30">Advanced Technology Supply, Inc. distributes, stocks, and fabricates many elastomeric/rubber materials.
+					<p class="mb30">Advanced Technology Supply, Inc. distributes, stocks, and fabricates many <b>elastomeric/rubber materials</b>.
 
 					<br/><br/>
 

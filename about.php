@@ -25,7 +25,7 @@ include 'inc_header.php'; ?>
 
 						<p><span class="dropcap bordered shadow">T</span>The company's business plan called for creating a niche sales approach in the aircraft aerospace and defense related markets with the centerpiece being the Space Shuttle Program at Kennedy Space Center. The Challenger explosion in January, 1986 drastically impacted this plan and Ryan was forced to redefine goals and expectations of the company by exploring new markets.</p>
 
-						<p>By 1989, Advanced Technology Supply, Inc. had established markets in high performance pressure sensitive tapes and silicone elastomers for printed circuit bare board fabrication, PCB assembly, defense related applications in airframe and avionics, electrical/electronics, and general industrial applications. Also significant, was the return to flight of the space shuttle that same year.</p>
+						<p>By 1989, Advanced Technology Supply, Inc. had established markets in <b>high performance pressure sensitive tapes and silicone elastomers</b> for printed circuit bare board fabrication, PCB assembly, defense related applications in airframe and avionics, electrical/electronics, and general industrial applications. Also significant, was the return to flight of the space shuttle that same year.</p>
 
 						<p>In August 1993, Ryan was joined by Gary A. Couture as Vice President. Ryan and Couture shared a common background of 20 years experience each with CHR Industries (now known as Saint Gobain Performance Plastics). CHR was a manufacturer of pressure sensitive tapes and silicone rubber sponge, sheet and coated fabrics. Both Ryan and Couture were regional sales manager for CHR, in addition, Couture was CHR's marketing manager.</p>
 

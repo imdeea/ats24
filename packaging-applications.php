@@ -18,15 +18,15 @@ include 'inc_header.php'; ?>
 
 					<h1 class=" mb20">Applications for the Packaging Industry</h1>
 
-					<p class="mb30">At Advanced Technology Supply, Inc. we provide packaging solutions to customers in a range of industries. We offer Silicone and PTFE Coated Fabrics which can be used in carrier belts, high temperature curtains (welding blankets) and drapes to retain heat in shrink tunnels and or heat sealing equipment.
+					<p class="mb30">At Advanced Technology Supply, Inc. we provide <b>packaging solutions</b> to customers in a range of industries. We offer Silicone and PTFE Coated Fabrics which can be used in carrier belts, high temperature curtains (welding blankets) and drapes to retain heat in shrink tunnels and or heat sealing equipment.
 
 					<br><br>
 
-					When coated with adhesive we can provide tapes used to release melted plastics in production processes for form and fill equipment, plastic bag manufacturing, and many other heat sealing devices. Our tapes have been successfully used as release materials in blister packaging. Typical applications might include sealing any plastic bags containing various end products as: coffee, seeds, condiments, food and or medical devices. Shrink tunnels are also ideal for safety packaging, creating tamper evident bands around medicines and perishables.
+					When coated with adhesive we can provide tapes used to release melted plastics in production processes for form and fill equipment, plastic bag manufacturing, and many other heat sealing devices. Our tapes have been successfully used as release materials in blister packaging. Typical applications might include sealing any plastic bags containing various end products as: coffee, seeds, condiments, food and or medical devices. Shrink tunnels are also ideal for <b>safety packaging</b>, creating tamper evident bands around medicines and perishables.
 
 					<br><br>
 
-					Customers requiring packaging equipment maintenance solutions can trust ATS to add speed, value, and reduced maintenance time to their process. All of our products and processes are in conformance with the strict standards of industry including ISO 9001 and Mil-Spec. For more information about our packaging products and capabilities, or the other services available please <a href="contact.php">contact</a> us directly.
+					<b>Customers requiring packaging equipment maintenance solutions can trust ATS</b> to add speed, value, and reduced maintenance time to their process. All of our products and processes are in conformance with the strict standards of industry including ISO 9001 and Mil-Spec. For more information about our packaging products and capabilities, or the other services available please <a href="contact.php">contact</a> us directly.
 
 					</p>
 
