@@ -8,6 +8,7 @@
 
 	<title><?=isset($title)?$title:'ATS 24'?></title>
 	<? if (isset($meta_descr)) { ?><meta name="description" content="<?=$meta_descr?>"><? } ?>
+	<? if (isset($schema)) { ?><?=$schema?><? } ?>
 
   	<!-- CSS files -->
 	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700|Russo+One' rel='stylesheet'>
@@ -44,7 +45,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6 hidden-xs phone">
-						
+
 					</div>
 					<div class="col-sm-6">
 						<div class="pull-right">
@@ -57,6 +58,7 @@
 							*/ ?>
 							<a class="top-phone" href="tel:800-793-6307"><i class="fa fa-phone"></i>800.793.6307</a>
 							<a class="top-email" href="mailto:sales@ats24.com"><i class="fa fa-envelope"></i>sales@ats24.com</a>
+							<a class="shop top-quote" href="/request-quote.php">Quote</a>
 						</div>
 					</div>
 				</div>
@@ -69,7 +71,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 col-md-2">
-							<a href="/" class="logo"></a>
+							<a href="/" title="ATS – Converters and Fabricators of Mil-Spec Tapes, Composite Fabrics and Silicone Materials" class="logo"></a>
 						</div>
 						<div class="col-sm-12 col-md-10">
 							<nav class="navbar-right">
@@ -77,7 +79,13 @@
 									<!-- Toggle Menu - For Mobile Devices -->
 									<li class="toggle-menu"> <i class="fa icon_menu"></i></li>
 									<!-- END Toggle Menu -->
-									<li><a href="/about.php">About Us</a></li>
+									<li><a href="/">Home</a></li>
+									<li><a href="#">About Us</a>
+										<ul  class="submenu">
+                                            <li><a href="/about.php">Company History</a></li>
+                                            <li><a href="/quality-and-certifications.php">Certifications</a></li>
+                                        </ul>
+									</li>
 									<li><a href="#">Products</a>
                                    		<ul  class="submenu">
                                             <li><a href="/high-performance-tapes.php">High Performance Tapes</a></li>
@@ -117,9 +125,7 @@
 		                                            <li><a href="/packaging-applications.php">Packaging</a></li>
 		                                        </ul>
 									</li>
-									<li><a href="/quality-and-certifications.php">Certifications</a></li>
 									<li><a href="/contact.php">Contact</a></li>
-									<li><a class="shop" href="/request-quote.php">Quote</a></li>
 								</ul>
 							</nav>
 						</div>
