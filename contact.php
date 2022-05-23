@@ -4,6 +4,29 @@ error_reporting(E_ALL);
 
 $title = 'Contact Us - AST 24 Customer Support | Florida';
 $meta_descr = 'Contact ATS 24 today and speak to one of our experts. We would be delighted to provide quotes and explain how our quality services will help you.';
+$schema = "<script type=\"application/ld+json\">
+{
+  \"@context\": \"https://schema.org\",
+  \"@type\": \"ContactPage\",
+  \"name\": \"Advanced Technology Supply, Inc\",
+  \"url\": \"https://ats24.com/contact.php\",
+  \"alternateName\": \"ATS24\",
+  \"sameAs\": [
+    \"https://www.linkedin.com/company/advanced-technology-supply-inc-of-orlando/about/\",
+    \"https://www.facebook.com/advancedtechsupply/\"
+  ],
+  \"contactPoint\": [
+    {
+      \"@type\": \"ContactPoint\",
+      \"telephone\": \"8007936307\",
+      \"contactType\": \"sales\",
+      \"email\": \"sales@ats24.com\",
+      \"areaServed\": \"US\",
+      \"availableLanguage\": \"en\"
+    }
+  ]
+}
+</script>";
 include 'inc_header.php'; ?>
 
 	<section class="section-intro bg-img bg03 stellar" data-stellar-background-ratio="0.4">

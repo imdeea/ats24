@@ -1,6 +1,28 @@
 <?
 $title = 'About ATS 24 - High Performance Tape Converter & Distributor';
 $meta_descr = 'ATS is an industry leader supplying mil-spec tape and mil-spec rubber products to aerospace, electricial and defense related markets since 1983.';
+$schema="<script type='application/ld+json'>
+{
+  \"@context\": \"http://www.schema.org\",
+  \"@type\": \"AboutPage\",
+  \"name\": \"Advanced Technology Supply, Inc\",
+  \"url\": \"https://ats24.com/about.php/\",
+  \"description\": \"ATS is an industry leader supplying mil-spec tape and mil-spec rubber products to aerospace, electricial and defense related markets since 1983.
+ \",
+  \"address\": {
+    \"@type\": \"PostalAddress\",
+    \"streetAddress\": \"1001 W. Newport Center Drive, Suite 111\",
+    \"addressLocality\": \"Deerfield Beach\",
+    \"addressRegion\": \"Florida\",
+    \"postalCode\": \"33442\",
+    \"addressCountry\": \"United States\"
+  },
+  \"contactPoint\": {
+    \"@type\": \"ContactPoint\",
+    \"telephone\": \"8007936307\"
+  }
+}
+ </script>";
 include 'inc_header.php'; ?>
 
 	<section class="section-intro bg-img bg03 stellar" data-stellar-background-ratio="0.4">

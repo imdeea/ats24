@@ -1,6 +1,35 @@
 <?
 $title = 'ATS - Converters and Fabricators | Tapes, Coated Fabrics, Films';
 $meta_descr = 'ATS are a high performance converter, fabricator and distributor of pressure sensitive tapes, elastometers, coated fabrics and plastic films. Contact us';
+$schema = "<script type='application/ld+json'>
+{
+  \"@context\": \"http://www.schema.org\",
+  \"@type\": \"Organization\",
+  \"name\": \"Advanced Technology Supply, Inc\",
+  \"url\": \"https://ats24.com/\",
+  \"logo\": \"https://ats24.com/\",
+  \"description\": \"Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS's capabilities include slitting, die-cutting, laminating, belt fabrication, rapid turn prototypes, and liquid injection molding. \",
+  \"address\": {
+    \"@type\": \"PostalAddress\",
+    \"streetAddress\": \"1001 W. Newport Center Drive, Suite 111\",
+    \"addressLocality\": \"Deerfield Beach\",
+    \"addressRegion\": \"Florida\",
+    \"postalCode\": \"33442\",
+    \"addressCountry\": \"United States\"
+  },
+  \"geo\": {
+    \"@type\": \"GeoCoordinates\",
+    \"latitude\": \"26.319512887006166\",
+    \"longitude\": \"-80.12522227774002\"
+  },
+  \"hasMap\": \"https://goo.gl/maps/ndWKBrrokGE7FU1J6\",
+  \"openingHours\": \"Mo, Tu, We, Th, Fr, Sa, Su -\",
+  \"contactPoint\": {
+    \"@type\": \"ContactPoint\",
+    \"telephone\": \"8007936307\"
+  }
+}
+ </script>";
 include 'inc_header.php';
 ?>
 
@@ -311,37 +340,37 @@ include 'inc_header.php';
 			</div>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.saint-gobain-northamerica.com/"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain"></a>
+					<a href="https://www.saint-gobain-northamerica.com/" target="_blank"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain" width="317" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.3m.com/"><img src="images/vendors/3m.png" alt="3M"></a>
+					<a href="https://www.3m.com/" target="_blank"><img src="images/vendors/3m.png" alt="3M" width="216" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://afcmaterials.com/"><img src="images/vendors/afc.png" alt="AFC"></a>
+					<a href="https://afcmaterials.com/" target="_blank"><img src="images/vendors/afc.png" alt="AFC"width="321" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.breydenproducts.com/"><img src="images/vendors/breyden.jpg" alt="Breyden"></a>
+					<a href="https://www.breydenproducts.com/" target="_blank"><img src="images/vendors/breyden.png" alt="Breyden" width="473" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://rogerscorp.com/elastomeric-material-solutions/dewal-products"><img src="images/vendors/dewal.jpg" alt="Dewal"></a>
+					<a href="https://rogerscorp.com/elastomeric-material-solutions/dewal-products" target="_blank"><img src="images/vendors/dewal.jpg" alt="Dewal" width="300" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.nitto.com/us/en/"><img src="images/vendors/nitto.jpg" alt="Nitto"></a>
+					<a href="https://www.nitto.com/us/en/" target="_blank"><img src="images/vendors/nitto.jpg" alt="Nitto"width="289" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.scapa.com/"><img src="images/vendors/scapa.png" alt="Scapa"></a>
+					<a href="https://www.scapa.com/" target="_blank"><img src="images/vendors/scapa.png" alt="Scapa"width="142" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.stockwell.com/"><img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics"></a>
+					<a href="https://www.stockwell.com/" target="_blank"><img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics" width="297" height="80"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.rogerscorp.com/"><img src="images/vendors/rogers.png" alt="Rogers Corporation"></a>
+					<a href="https://www.rogerscorp.com/" target="_blank"><img src="images/vendors/rogers.png" alt="Rogers Corporation" width="503" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.saylorproducts.com/"><img src="images/vendors/saylor.png" alt="Saylor"></a>
+					<a href="https://www.saylorproducts.com/" target="_blank"><img src="images/vendors/saylor.png" alt="Saylor" width="280" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.sheldahl.com/"><img src="images/vendors/sheldahl.png" alt="Sheldahl"></a>
+					<a href="https://www.sheldahl.com/" target="_blank"><img src="images/vendors/sheldahl.png" alt="Sheldahl" width="382" height="132"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
 					Many Others...
@@ -352,7 +381,7 @@ include 'inc_header.php';
 
 	<style>
 	.xs-box { height:120px; }
-	.xs-box img { max-height:70px; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
+	.xs-box img { max-height:70px; max-width: max-content; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
 	.xs-box a {
 	    padding: 0;
 	    background-color: transparent;
