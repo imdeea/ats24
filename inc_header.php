@@ -14,7 +14,6 @@
 	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700|Russo+One' rel='stylesheet'>
 	<link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/font-awesome.css">
-	<link rel="stylesheet" href="/css/custom.css">
 	<link rel="stylesheet" href="/plugins/elegant_font/html_css/style.css">
 
 
@@ -23,6 +22,7 @@
 
 	<!-- Main CSS file -->
 	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
 	<link rel="shortcut icon" href="/images/favicon.png">
 </head>
 <body>
@@ -70,10 +70,13 @@
 			<div class="main-header">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12 col-md-2">
+						<div class="col-lg-2 col-sm-2 col-xs-2">
 							<a href="/" title="ATS – Converters and Fabricators of Mil-Spec Tapes, Composite Fabrics and Silicone Materials" class="logo"></a>
 						</div>
-						<div class="col-sm-12 col-md-10">
+						<div class="col-lg-3 col-sm-8 col-xs-4">
+							<img src="/images/lockheed-martin-badge.svg" class="lockheed-martin-badge" height="70" />
+						</div>
+						<div class="col-lg-7 col-sm-12 col-xs-12 navbar-holder">
 							<nav class="navbar-right">
 								<ul class="menu">
 									<!-- Toggle Menu - For Mobile Devices -->

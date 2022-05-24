@@ -876,7 +876,7 @@ https://www.pantone.com/color-finder/425-C
 
 
 	/* Menu on Mobiles */
-	@media (max-width: 767px) {
+	@media (max-width: 1200px) {
 		.header-wrapper {
 			background-color: #1F2A44;
 			color: #dadde2;
@@ -1024,7 +1024,7 @@ https://www.pantone.com/color-finder/425-C
 	@media (min-width:768px) {
 		.header-wrapper .navbar-right { margin-right: 0 !important; }
 	}
-	@media (max-width:991px) {
+	@media (max-width:1200px) {
 		.header-wrapper .navbar-right { float:none !important; }
 	}
 

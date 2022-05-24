@@ -52,6 +52,18 @@
     font-style: normal;
     font-display: swap;
 }
+.navbar-holder{
+    background: #1f2a44;
+}
+.lockheed-martin-badge{
+    height: 70px;
+}
+.menu > li > a {
+    margin: 22px 3px;
+}
+.logo{
+    background-size: contain;
+}
 /****************** BLOG **********************/
 .blog-post {
     -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
