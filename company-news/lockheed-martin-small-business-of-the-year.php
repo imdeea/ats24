@@ -15,7 +15,7 @@ include '../inc_header.php'; ?>
         <h1 class="post-title mb20">Advanced Technlogy Supply, Inc – Award Winners!</h1>
         <div class="post-meta"> <small class="text-muted p float-right">29 May, 18</small> </div>
         <div class="post-content">
-        <p>Advanced Technology Supply is delighted to announce we have won the <em>&ldquo;Lockheed Martin Small Business of the Year 2022&rdquo;.</em></p>
+        <p>Advanced Technology Supply is delighted to announce we have won the <em>&ldquo;Lockheed Martin Small Business of the Year 2018&rdquo;.</em></p>
         <p>It&rsquo;s an honour to receive such a prestigious award from an iconic corporation in the security and aerospace industry.</p>
         <p>Aaron Khoury, Global Supply Chain Analyst &ndash; PAC-3 At Lockheed Martin issued the following statement:</p>
         <p>&ldquo;<em><strong>Advanced Technology Supply (ATS) has mainlined a delivery rating of 100% while excelling in meeting Lockheed Martin's quality standards. Bulk materials such as the wide range of mil spec tapes, composite fabrics and silicone materials that ATS supplies go overlooked when compared to higher level assemblies such as printed wiring boards or castings.</strong></em></p>
