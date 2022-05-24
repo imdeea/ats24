@@ -35,7 +35,7 @@
 					<div class="footer-widget">
 						<h3 class="footer-title">Certifications</h3>
 						<div class="sidebar-tweet clearfix">
-							<a href="/pdf/iso-certificate-of-reg-2019.pdf" target="_blank" onclick="LogClick(this);"><img src="images/nqa_hi_res_logo.png" alt="NNQA - ISO 9001:2015 and AS9100:2016 Certified" title="NQA - ISO 9001:2015 and AS9100:2016 Certified" style="max-width:125px;" width="581" height="519"></a>
+							<a href="/pdf/iso-certificate-of-reg-2019.pdf" target="_blank" onclick="LogClick(this);"><img src="/images/nqa_hi_res_logo.png" alt="NNQA - ISO 9001:2015 and AS9100:2016 Certified" title="NQA - ISO 9001:2015 and AS9100:2016 Certified" style="max-width:125px;" width="581" height="519"></a>
 						</div>
 					</div>
 				</div>
@@ -64,19 +64,19 @@
 
 
 	<!-- Javascript files -->
-	<script src="plugins/jquery/jquery-2.1.0.min.js"></script>
-	<script src="plugins/jquery/jquery.validate.min.js"></script>
-	<script src="plugins/jquery/additional-methods.min.js"></script>
-	<script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/plugins/jquery/jquery-2.1.0.min.js"></script>
+	<script src="/plugins/jquery/jquery.validate.min.js"></script>
+	<script src="/plugins/jquery/additional-methods.min.js"></script>
+	<script src="/plugins/bootstrap/js/bootstrap.min.js"></script>
 
-	<script src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-	<script src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+	<script src="/plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	<script src="/plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-	<script src="plugins/jquery.appear.js"></script>
-	<script src="plugins/retina.min.js"></script>
-	<script src="plugins/stellar.min.js"></script>
-	<script src="plugins/sticky.min.js"></script>
-	<script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="/plugins/jquery.appear.js"></script>
+	<script src="/plugins/retina.min.js"></script>
+	<script src="/plugins/stellar.min.js"></script>
+	<script src="/plugins/sticky.min.js"></script>
+	<script src="/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
 	<script>
 		$('.industry-app-gallery').magnificPopup({
 		  delegate: 'a', // child items selector, by clicking on it popup will open
@@ -87,7 +87,7 @@
 	</script>
 
 	<!-- Main javascript file -->
-	<script src="js/script.js"></script>
+	<script src="/js/script.js"></script>
 
 
 
