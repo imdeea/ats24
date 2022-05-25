@@ -8,7 +8,7 @@ $schema = "<script type='application/ld+json'>
   \"name\": \"Advanced Technology Supply, Inc\",
   \"url\": \"https://ats24.com/\",
   \"logo\": \"https://ats24.com/\",
-  \"description\": \"Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS's capabilities include slitting, die-cutting, laminating, belt fabrication, rapid turn prototypes, and liquid injection molding. \",
+  \"description\": \"Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS's capabilities include slitting, die-cutting, laminating, belt fabrication and rapid turn prototypes. \",
   \"address\": {
     \"@type\": \"PostalAddress\",
     \"streetAddress\": \"1001 W. Newport Center Drive, Suite 111\",
@@ -108,8 +108,7 @@ include 'inc_header.php';
 						Die cutting<span class="py10"></span>
 						Laminating<br>
 						Belt Fabrication<span class="py10"></span>
-						Rapid Turn Prototypes<br>
-						Liquid Injection Molding
+						Rapid Turn Prototypes
 						</h4>
 					</div>
 
@@ -118,6 +117,26 @@ include 'inc_header.php';
 			</ul>
 		</div>
 	</div>
+
+	<section class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6"><h1>Welcome to ATS!</h1> </div>
+                        <div class="col-sm-12 col-md-6"><img src="/images/ConverterSelect.png" width="1092" height="297" style="height:100px; width: auto; margin-left: auto; margin-right: 0; display: block;" /> </div>
+					</div>
+
+					<p>
+                        Advanced Technology Supply is an award-winning Converter, Fabricator, and Distributor of Pressure Sensitive Tapes, Elastomers, Plastic Films, Coated Fabrics, and Composite Fabrics.
+    					Florida-based, our business spans almost 40 years and we are an industry leader with a flawless reputation, supplying mil-spec tape and mil-spec rubber products to the military, aerospace, electrical, construction, and packaging industries across the US.
+    					We offer precision engineering capabilities including Cutting, Slitting, and Fabrication. Our premium service will tailor to your exact specifications.
+                    </p>
+
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<section class="section">
 		<div class="container">
@@ -219,17 +238,16 @@ include 'inc_header.php';
 				</div>
 				<div class="col-sm-6">
 					<div class="box-services-b">
-						<div class="box-left"><i class="fal fa-ruler-triangle fa-style2"></i></div>
+						<div class="box-left"><i class="far fa-tint fa-style2"></i></i></div>
 						<div class="box-right">
-							<a href="steel-rule-die-cutting.php"><h3 class="title-small">Steel Rule Die Cutting</h3></a>
-							<p class="mb10">One of the most cost-effective ways to die cut elastomers measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness</p>
+							<a href="water-jet-cutting.php"><h3 class="title-small">Waterjet Cutting</h3></a>
+							<p class="mb10">Accurately slice through thick, low durometer solid or sponge materials without the edge concavity usually associated with steel rule die cutting.</p>
 						</div>
 					</div>
-
 				</div>
 			</div>
 			<div class="row col-p30">
-				<div class="col-sm-6 sm-box2">
+				<? /*<div class="col-sm-6 sm-box2">
 					<div class="box-services-b">
 						<div class="box-left"><i class="fal fa-water fa-style2"></i></div>
 						<div class="box-right">
@@ -237,14 +255,13 @@ include 'inc_header.php';
 							<p class="mb10">A strong candidate for gaskets, seals, and cushioning pads in electronic portable and hand-held devices that need to function within challenging outdoor conditions.</p>
 						</div>
 					</div>
-
-				</div>
+				</div>*/ ?>
 				<div class="col-sm-6">
 					<div class="box-services-b">
-						<div class="box-left"><i class="far fa-tint fa-style2"></i></i></div>
+						<div class="box-left"><i class="fal fa-ruler-triangle fa-style2"></i></div>
 						<div class="box-right">
-							<a href="water-jet-cutting.php"><h3 class="title-small">Waterjet Cutting</h3></a>
-							<p class="mb10">Accurately slice through thick, low durometer solid or sponge materials without the edge concavity usually associated with steel rule die cutting.</p>
+							<a href="steel-rule-die-cutting.php"><h3 class="title-small">Steel Rule Die Cutting</h3></a>
+							<p class="mb10">One of the most cost-effective ways to die cut elastomers measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness</p>
 						</div>
 					</div>
 

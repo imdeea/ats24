@@ -50,6 +50,7 @@
 				</div>
 				*/ ?>
 				<div class="col-sm-12 col-md-12">
+					<img src="/images/ConverterSelect.png" width="1092" height="297" style="height:50px; width: auto; display: inline-block;" /> 
 					<p class="copyright">&copy; Copyright <?=date('Y')?></p>
 				</div>
 			</div>
