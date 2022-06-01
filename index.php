@@ -1,35 +1,35 @@
 <?
 $title = 'ATS - Converters and Fabricators | Tapes, Coated Fabrics, Films';
 $meta_descr = 'ATS are a high performance converter, fabricator and distributor of pressure sensitive tapes, elastometers, coated fabrics and plastic films. Contact us';
-$schema = "<script type='application/ld+json'>
+$schema = '<script type="application/ld+json">
 {
-  \"@context\": \"http://www.schema.org\",
-  \"@type\": \"Organization\",
-  \"name\": \"Advanced Technology Supply, Inc\",
-  \"url\": \"https://ats24.com/\",
-  \"logo\": \"https://ats24.com/\",
-  \"description\": \"Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS's capabilities include slitting, die-cutting, laminating, belt fabrication and rapid turn prototypes. \",
-  \"address\": {
-    \"@type\": \"PostalAddress\",
-    \"streetAddress\": \"1001 W. Newport Center Drive, Suite 111\",
-    \"addressLocality\": \"Deerfield Beach\",
-    \"addressRegion\": \"Florida\",
-    \"postalCode\": \"33442\",
-    \"addressCountry\": \"United States\"
+  "@context": "http://www.schema.org",
+  "@type": "Organization",
+  "name": "Advanced Technology Supply, Inc",
+  "url": "https://ats24.com/",
+  "logo": "https://ats24.com/",
+  "description": "Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS\'s capabilities include slitting, die-cutting, laminating, belt fabrication and rapid turn prototypes.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1001 W. Newport Center Drive, Suite 111",
+    "addressLocality": "Deerfield Beach",
+    "addressRegion": "Florida",
+    "postalCode": "33442",
+    "addressCountry": "United States"
   },
-  \"geo\": {
-    \"@type\": \"GeoCoordinates\",
-    \"latitude\": \"26.319512887006166\",
-    \"longitude\": \"-80.12522227774002\"
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "26.319512887006166",
+    "longitude": "-80.12522227774002"
   },
-  \"hasMap\": \"https://goo.gl/maps/ndWKBrrokGE7FU1J6\",
-  \"openingHours\": \"Mo, Tu, We, Th, Fr, Sa, Su -\",
-  \"contactPoint\": {
-    \"@type\": \"ContactPoint\",
-    \"telephone\": \"8007936307\"
+  "hasMap": "https://goo.gl/maps/ndWKBrrokGE7FU1J6",
+  "openingHours": "Mo, Tu, We, Th, Fr, Sa, Su -",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "8007936307"
   }
 }
- </script>";
+ </script>';
 include 'inc_header.php';
 ?>
 
@@ -118,21 +118,19 @@ include 'inc_header.php';
 		</div>
 	</div>
 
-	<section class="section">
+	<section class="section" style="padding-bottom: 0;">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-6"><h1>Welcome to ATS!</h1> </div>
-                        <div class="col-sm-12 col-md-6"><img src="/images/ConverterSelect.png" width="1092" height="297" style="height:100px; width: auto; margin-left: auto; margin-right: 0; display: block;" /> </div>
+	                    <div class="row">
+	                    	<div class="col-sm-12 col-md-6"><h1>Welcome to ATS!</h1> </div>
+	                    	<div class="col-sm-12 col-md-6"><img src="/images/ConverterSelect.png" width="1092" height="297" style="height:100px; width: auto; margin-left: auto; margin-right: 0; display: block; margin-bottom:25px;" /></div>
 					</div>
 
-					<p>
-                        Advanced Technology Supply is an award-winning Converter, Fabricator, and Distributor of Pressure Sensitive Tapes, Elastomers, Plastic Films, Coated Fabrics, and Composite Fabrics.
-    					Florida-based, our business spans almost 40 years and we are an industry leader with a flawless reputation, supplying mil-spec tape and mil-spec rubber products to the military, aerospace, electrical, construction, and packaging industries across the US.
-    					We offer precision engineering capabilities including Cutting, Slitting, and Fabrication. Our premium service will tailor to your exact specifications.
-                    </p>
-
+					<p>Advanced Technology Supply, Inc. is an&nbsp;<strong>award-winning</strong>&nbsp;Converter, Fabricator, and Distributor of Pressure Sensitive Tapes, Elastomers, Plastic Films, Coated Fabrics, and Composite Fabrics. Our Florida-based business spans almost 40 years&nbsp;and we are an industry leader with a flawless reputation, supplying mil-spec tape and mil-spec rubber products to the military, aerospace, electrical, construction, and&nbsp;packaging industries throughout the world.</p>
+                    <p>We offer precision engineering capabilities including Cutting, Slitting, and Fabrication and we are&nbsp;authorized converters and&nbsp;distributors for some of the biggest brands in the industry such as 3M, Saint-Gobain, and many more.</p>
+                    <p>We welcome custom orders and our premium service is designed to tailor to your exact specifications.</p>
+                    <a class="top-quote" href="/request-quote.php" style="margin-top: 20px; display: inline-block;">Request a Quote</a>
 				</div>
 			</div>
 		</div>
