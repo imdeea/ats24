@@ -396,7 +396,7 @@ include 'inc_header.php';
 
 	<style>
 	.xs-box { height:120px; }
-	.xs-box img { max-height:70px; max-width: max-content; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
+	.xs-box img { max-height:70px; width: auto; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
 	.xs-box a {
 	    padding: 0;
 	    background-color: transparent;
