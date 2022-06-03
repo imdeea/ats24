@@ -52,6 +52,11 @@
     font-style: normal;
     font-display: swap;
 }
+.social-media ul{
+    list-style:none;
+    padding-left: 0;
+    font-size: 2rem;
+}
 .navbar-holder{
     background: #1f2a44;
 }
