@@ -1,6 +1,6 @@
 <?
-$title = 'BREYDEN PRODUCTS, INC | ATS 24';
-$meta_descr = 'BREYDEN PRODUCTS, INC. is a global leader in the manufacturing of military specification lacing tapes, twines, yarns, Nomex sleeving and cords. They also produce various commercial-grade lacing and tying materials for the aerospace and wire harnessing industries.';
+$title = 'Breyden Products | ATS Authorized Converter and Distributor';
+$meta_descr = 'Breyden Products Inc - ATS is proud to be an authorized converter and distributor for Breyden, specilaizing in their high performance tapes';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0 ">

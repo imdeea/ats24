@@ -1,6 +1,6 @@
 <?
-$title = 'Stockwell Elastomerics Inc | ATS 24';
-$meta_descr = 'Founded in 1919 Stockwell Elastomerics, Inc. is a manufacturer of custom rubber components for protecting electronics and electrical components from harsh environments, such as making them shock-resistant and extremely hard-wearing.';
+$title = 'Stockwell Elastomerics | ATS  Converter | Water Jet Cutting';
+$meta_descr = 'ATS is proud to be an authorized converter and distributor for Stockwell Elastomerics. We\'re also partnered for Water Jet Cutting Services';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0 ">
@@ -17,11 +17,10 @@ include 'inc_header.php'; ?>
 			<div class="row mb30">
 				<div class="col-md-12">
 					<p>Founded in 1919 Stockwell Elastomerics, Inc. is a manufacturer of custom rubber components for protecting electronics and electrical components from harsh environments, such as making them shock-resistant and extremely hard-wearing.</p>
-<p>They play an important role within the technology sector with core competence in silicone and high-performance elastomers. Other elements of their business are the manufacturing of silicone rubber components, silicone sponge gaskets, PORON gaskets and pads, adhesive-backed gaskets, gasket tape, silicone foam gaskets, fluorosilicone parts, thermal pads, EMI shielding gaskets, liquid injection molding (LIM), liquid silicone rubber (LSR), waterjet cut gaskets. These can all be custom-produced to meet the customer's specifications.</p>
-<p>Stockwell Elastomerics is headquartered in Philadelphia and they maintain a comprehensive inventory of materials and has in-house water jet cutting (with ATS collaboration), die-cutting, injection molding, compression molding, adhesive lamination, UV bonding, and assembly.</p>
-<p>The variety of their services and machinery help them meet customers' needs in a fast and efficient manner including high volume production. The clients who benefit the most from Stockwell's capabilities are OEMs in the technology sector. These are companies that make devices from component parts bought from other organizations and utilize innovation to be competitive in their markets.</p>
-<p><a href="/" target="_self">ATS</a><strong> is an authorized converter and distributor of Stockwell Elastomerics and assist them on Water Jet Cutting jobs.</strong></p>
-
+					<p>They play an important role within the technology sector with core competence in silicone and high-performance elastomers. Other elements of their business are the manufacturing of silicone rubber components, silicone sponge gaskets, PORON gaskets and pads, adhesive-backed gaskets, gasket tape, silicone foam gaskets, fluorosilicone parts, thermal pads, EMI shielding gaskets, liquid injection molding (LIM), liquid silicone rubber (LSR), waterjet cut gaskets. These can all be custom-produced to meet the customer's specifications.</p>
+					<p>Stockwell Elastomerics is headquartered in Philadelphia and they maintain a comprehensive inventory of materials and has in-house water jet cutting (with ATS collaboration), die-cutting, injection molding, compression molding, adhesive lamination, UV bonding, and assembly.</p>
+					<p>The variety of their services and machinery help them meet customers' needs in a fast and efficient manner including high volume production. The clients who benefit the most from Stockwell's capabilities are OEMs in the technology sector. These are companies that make devices from component parts bought from other organizations and utilize innovation to be competitive in their markets.</p>
+					<p><a href="/" target="_self">ATS</a><strong> is an authorized converter and distributor of Stockwell Elastomerics and assists them on Water Jet Cutting jobs.</strong></p>
 				</div>
 			</div>
 		</div>

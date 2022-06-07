@@ -1,6 +1,6 @@
 <?
-$title = 'DeWAL® | ATS 24';
-$meta_descr = 'Rogers DeWAL product line is a manufacturer of high-performance polymer films and pressure-sensitive PTFE and UHMW tape. It is part of Rogers Corporation a global engineering business.';
+$title = 'Dewal | ATS Authorized Converter and Distributor';
+$meta_descr = 'ATS are converters and distributors of DeWal products such as pressure-sensitive tapes and high-performance films. Part of Roger Corporation. ';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">

@@ -3,31 +3,31 @@ $title = 'ATS - Converters and Fabricators | Tapes, Coated Fabrics, Films';
 $meta_descr = 'ATS are a high performance converter, fabricator and distributor of pressure sensitive tapes, elastometers, coated fabrics and plastic films. Contact us';
 $schema = '<script type="application/ld+json">
 {
-  "@context": "http://www.schema.org",
-  "@type": "Organization",
-  "name": "Advanced Technology Supply, Inc",
-  "url": "https://ats24.com/",
-  "logo": "https://ats24.com/",
-  "description": "Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS\'s capabilities include slitting, die-cutting, laminating, belt fabrication and rapid turn prototypes.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1001 W. Newport Center Drive, Suite 111",
-    "addressLocality": "Deerfield Beach",
-    "addressRegion": "Florida",
-    "postalCode": "33442",
-    "addressCountry": "United States"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "26.319512887006166",
-    "longitude": "-80.12522227774002"
-  },
-  "hasMap": "https://goo.gl/maps/ndWKBrrokGE7FU1J6",
-  "openingHours": "Mo, Tu, We, Th, Fr, Sa, Su -",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "8007936307"
-  }
+	"@context": "http://www.schema.org",
+	"@type": "Organization",
+	"name": "Advanced Technology Supply, Inc",
+	"url": "https://ats24.com/",
+	"logo": "https://ats24.com/",
+	"description": "Advanced Technology Supply (ATS) is an industry leader supplying pressure-sensitive mil-spec tape and mil-spec rubber products to all branches of the US armed forces, The Department of Defense, its subcontractors, and international defense partners. ATS\'s capabilities include slitting, die-cutting, laminating, belt fabrication and rapid turn prototypes.",
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "1001 W. Newport Center Drive, Suite 111",
+		"addressLocality": "Deerfield Beach",
+		"addressRegion": "Florida",
+		"postalCode": "33442",
+		"addressCountry": "United States"
+	},
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "26.319512887006166",
+		"longitude": "-80.12522227774002"
+	},
+	"hasMap": "https://goo.gl/maps/ndWKBrrokGE7FU1J6",
+	"openingHours": "Mo, Tu, We, Th, Fr, Sa, Su -",
+	"contactPoint": {
+		"@type": "ContactPoint",
+		"telephone": "8007936307"
+	}
 }
  </script>';
 include 'inc_header.php';
@@ -40,8 +40,8 @@ include 'inc_header.php';
 				<!-- SLIDE 1 -->
 				<li data-transition="fade" data-masterspeed="500" data-slotamount="7" data-delay="8000" data-title="Slide 1">
 					<!-- Background Image -->
-				   <img src="images/sample_1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
-				   <div class="bg-overlay op6"></div>
+					 <img src="images/sample_1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
+					 <div class="bg-overlay op6"></div>
 
 
 
@@ -82,8 +82,8 @@ include 'inc_header.php';
 				<!-- SLIDE 4 -->
 				<li data-transition="fade" data-slotamount="7" data-delay="8000" data-title="Slide 4">
 					<!-- Background Image -->
-				   <img src="images/sample_4.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
-				   <div class="bg-overlay op5"></div>
+					 <img src="images/sample_4.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
+					 <div class="bg-overlay op5"></div>
 
 
 					<div class="tp-caption sfr stb"
@@ -122,15 +122,16 @@ include 'inc_header.php';
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
-	                    <div class="row">
-	                    	<div class="col-sm-12 col-md-6"><h1>Welcome to ATS!</h1> </div>
-	                    	<div class="col-sm-12 col-md-6"><img src="/images/ConverterSelect.png" width="1092" height="297" style="height:100px; width: auto; margin-left: auto; margin-right: 0; display: block; margin-bottom:25px;" /></div>
+					<div class="row">
+						<div class="col-sm-12 col-md-6"><h1>Welcome to ATS!</h1> </div>
+						<div class="col-sm-12 col-md-6"><img src="/images/ConverterSelect.png" width="1092" height="297" style="height:100px; width: auto; margin-left: auto; margin-right: 0; display: block; margin-bottom:25px;" /></div>
 					</div>
 
 					<p>Advanced Technology Supply, Inc. is an&nbsp;<strong>award-winning</strong>&nbsp;Converter, Fabricator, and Distributor of Pressure Sensitive Tapes, Elastomers, Plastic Films, Coated Fabrics, and Composite Fabrics. Our Florida-based business spans almost 40 years&nbsp;and we are an industry leader with a flawless reputation, supplying mil-spec tape and mil-spec rubber products to the military, aerospace, electrical, construction, and&nbsp;packaging industries throughout the world.</p>
-                    <p>We offer precision engineering capabilities including Cutting, Slitting, and Fabrication and we are&nbsp;authorized converters and&nbsp;distributors for some of the biggest brands in the industry such as 3M, Saint-Gobain, and many more.</p>
-                    <p>We welcome custom orders and our premium service is designed to tailor to your exact specifications.</p>
-                    <a class="top-quote" href="/request-quote.php" style="margin-top: 20px; display: inline-block;">Request a Quote</a>
+					<p>We offer precision engineering capabilities including Cutting, Slitting, and Fabrication and we are&nbsp;authorized converters and&nbsp;distributors for some of the biggest brands in the industry such as 3M, Saint-Gobain, and many more.</p>
+					<p>Our 3M Select Converter status allows us to custom convert 3M brand products for our customers. This coveted status also gives us access to 3M-certified specialists and support to ensure all of our products are produced with absolute precision.</p>
+					<p>We welcome custom orders and our premium service is designed to tailor to your exact specifications.</p>
+					<a class="top-quote" href="/request-quote.php" style="margin-top: 20px; display: inline-block;">Request a Quote</a>
 				</div>
 			</div>
 		</div>
@@ -348,17 +349,19 @@ include 'inc_header.php';
 
 				<article class="blog-post-content">
 
-						<h3 class="title-small mb40">ATS is an approved converter / fabricator of several manufacturers,<br/> with access to numerous manufacturers.</h3>
+						<h3 class="title-small mb40">
+							ATS is an approved converter / fabricator of several of the biggest manufacturers in the industry. These brands trust us with their products as they know we will only produce the highest quality finished article. Whether it’s for an existing product or a custom specification, we’re happy to help.
+						</h3>
 
 				</article>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.saint-gobain-northamerica.com/" target="_blank"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain" width="317" height="140"></a>
+					<a href="/saint-gobain.php" target="_blank"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain" width="317" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.3m.com/" target="_blank"><img src="images/vendors/3m.png" alt="3M" width="216" height="140"></a>
+					<a href="/3m.php" target="_blank"><img src="images/vendors/3m.png" alt="3M" width="216" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
 					<a href="https://afcmaterials.com/" target="_blank"><img src="images/vendors/afc.png" alt="AFC"width="321" height="140"></a>
@@ -371,9 +374,6 @@ include 'inc_header.php';
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
 					<a href="https://www.nitto.com/us/en/" target="_blank"><img src="images/vendors/nitto.jpg" alt="Nitto"width="289" height="140"></a>
-				</div>
-				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.scapa.com/" target="_blank"><img src="images/vendors/scapa.png" alt="Scapa"width="142" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
 					<a href="https://www.stockwell.com/" target="_blank"><img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics" width="297" height="80"></a>
@@ -398,9 +398,9 @@ include 'inc_header.php';
 	.xs-box { height:120px; }
 	.xs-box img { max-height:70px; width: auto; /*-webkit-filter: grayscale(100%); filter: grayscale(100%);*/ }
 	.xs-box a {
-	    padding: 0;
-	    background-color: transparent;
-	    opacity: 1;
+			padding: 0;
+			background-color: transparent;
+			opacity: 1;
 	}
 	</style>
 

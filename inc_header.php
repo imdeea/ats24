@@ -87,6 +87,13 @@
 										<ul  class="submenu">
 											<li><a href="/about.php">About Us</a></li>
 											<li><a href="/quality-and-certifications.php">Certifications</a></li>
+											<li><a href="#">Manufacturers</a>
+												<ul  class="submenu">
+													<li><a href="/3m.php">3M</a></li>
+													<li><a href="/saint-gobain.php">Saint-Gobain</a></li>	
+
+												</ul>
+											</li>
 										</ul>
 									</li>
 									<li><a href="#">Products</a>

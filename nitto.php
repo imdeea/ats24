@@ -1,6 +1,6 @@
 <?
-$title = 'Nitto Denko | ATS 24';
-$meta_descr = 'Nitto Denko Corporation was set up in 1918 in Oaski, Japan to produce electrical insulation.Since its incorporation in the US  has earned a reputation as a pioneer in the field of pressure-sensitive adhesive tapes by developing new products through its innovative proprietary technologies.';
+$title = 'Nitto Denko Inc | ATS Authorized Converter and Distributor';
+$meta_descr = 'About Nitto Denko - Advanced Technology Supply Inc, is proud to be an authorized converter and distributor for Nitto. Learn more ';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">
@@ -11,19 +11,16 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-md-9">
 					<h1 class="mb20">Nitto Denko</h1>
-					<p  class="mb30">Nitto Denko Corporation was set up in 1918 in Oaski, Japan to produce electrical insulation.&nbsp;Since its incorporation in the US in 1968,&nbsp;Nitto Denko America, Inc. who&rsquo;s headquarters is in Teaneck, New Jersey, has earned a reputation as a pioneer in the field of <strong>pressure-sensitive&nbsp;adhesive</strong>&nbsp;tapes by developing new products through its innovative proprietary technologies. </p>
-
+					<p  class="mb30">Nitto Denko Corporation was set up in 1918 in Oaski, Japan to produce electrical insulation.  Since its incorporation in the US in 1968, Nitto Denko America, Inc. who&rsquo;s headquarters is in Teaneck, New Jersey, has earned a reputation as a pioneer in the field of <strong>pressure-sensitive&nbsp;adhesive</strong>&nbsp;tapes by developing new products through its innovative proprietary technologies. </p>
 				</div>
-
 			</div>
 			<div class="row mb30">
 				<div class="col-md-12">
 					<p>They use all the technology at their disposal such as&nbsp;adhesion and coating&nbsp;to add diverse functions to sheets and films, increasing the use of their applications and global demand.</p>
 					<p>They provide their services to customers worldwide, across a range of markets such as optical displays, semiconductors, cellular phones, automotive, medical and health care, and more.</p>
-<p>Their US-based global spec-in design service has enabled them to create leading-edge technologies of high polymer materials. Although famed for creating global niche products such as semiconductor encapsulating materials and flexible printed circuits, Nitto, actually offers the most diverse selection of adhesive tape products each designed with a specific use and industry in mind.&nbsp;</p>
-<p>Their <a href="/high-performance-tapes.php">pressure-sensitive tapes</a>  serve an increasingly broad market: electronics, automotive, aerospace, housing and construction, metal processing, paper industries, transportation, alternative energies, and appliances.&nbsp;</p>
-<p><a href="/" title="ATS24" target="_self">ATS</a><strong> is an authorized converter and distributor of Nitto Denko</strong></p>
-
+					<p>Their US-based global spec-in design service has enabled them to create leading-edge technologies of high polymer materials. Although famed for creating global niche products such as semiconductor encapsulating materials and flexible printed circuits, Nitto, actually offers the most diverse selection of adhesive tape products each designed with a specific use and industry in mind.&nbsp;</p>
+					<p>Their <a href="/high-performance-tapes.php">pressure-sensitive tapes</a>  serve an increasingly broad market: electronics, automotive, aerospace, housing and construction, metal processing, paper industries, transportation, alternative energies, and appliances.&nbsp;</p>
+					<p><a href="/" title="ATS24" target="_self">ATS</a><strong> is an authorized converter and distributor of Nitto Denko.</strong></p>
 				</div>
 			</div>
 		</div>
