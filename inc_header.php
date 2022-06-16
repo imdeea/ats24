@@ -22,7 +22,7 @@
 
 	<!-- Main CSS file -->
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="stylesheet" href="/css/custom.css?v1.0">
 	<link rel="shortcut icon" href="/images/favicon.png">
 </head>
 <body>
@@ -86,11 +86,12 @@
 									<li><a href="#">About Us</a>
 										<ul  class="submenu">
 											<li><a href="/about.php">About Us</a></li>
+											<li><a href="/company-news.php">Company News</a></li>
 											<li><a href="/quality-and-certifications.php">Certifications</a></li>
 											<li><a href="#">Manufacturers</a>
 												<ul  class="submenu">
 													<li><a href="/3m.php">3M</a></li>
-													<li><a href="/saint-gobain.php">Saint-Gobain</a></li>	
+													<li><a href="/saint-gobain.php">Saint-Gobain</a></li>
 
 												</ul>
 											</li>
@@ -98,11 +99,11 @@
 									</li>
 									<li><a href="#">Products</a>
 									<ul  class="submenu">
-								    <li><a href="/high-performance-tapes.php">High Performance Tapes</a></li>
-								    <li><a href="/mil-spec-approved-tape.php">MIL-SPEC Approved Tape & Rubber Materials</a></li>
-								    <li><a href="/coated-fabrics-films.php">Coated Fabrics & Films</a></li>
-								    <li><a href="/silicone-elastomers.php">Silicone Rubber, Sponge, and Elastomers</a></li>
-								</ul>
+									    <li><a href="/high-performance-tapes.php">High Performance Tapes</a></li>
+									    <li><a href="/mil-spec-approved-tape.php">MIL-SPEC Approved Tape & Rubber Materials</a></li>
+									    <li><a href="/coated-fabrics-films.php">Coated Fabrics & Films</a></li>
+									    <li><a href="/silicone-elastomers.php">Silicone Rubber, Sponge, and Elastomers</a></li>
+									</ul>
 									</li>
 									<li><a href="#">Capabilities</a>
 										<div class="megamenu">

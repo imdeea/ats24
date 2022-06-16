@@ -52,6 +52,9 @@
     font-style: normal;
     font-display: swap;
 }
+.intro-p a {
+    color: #fff;
+}
 .social-media ul{
     list-style:none;
     padding-left: 0;

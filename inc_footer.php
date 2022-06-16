@@ -42,11 +42,11 @@
 						<h3 class="footer-title">Certifications</h3>
 						<div class="sidebar-tweet clearfix">
 							<div class="row">
-								<div class="col-md-5" style="padding:20px; text-align: center">
+								<div class="col-md-6" style="padding:0 20px; text-align: center">
 									<a href="/pdf/iso-certificate-of-reg-2019.pdf" target="_blank" onclick="LogClick(this);"><img src="/images/nqa_hi_res_logo.png" alt="NNQA - ISO 9001:2015 and AS9100:2016 Certified" title="NQA - ISO 9001:2015 and AS9100:2016 Certified" style="max-width:100%;" width="581" height="519"></a>
-									<img src="/images/iso-cert.png" alt="ISO Certified" title="ISO Certified" style="max-width:100%;" width="350" height="131">
+									<img src="/images/iso-cert.png" alt="ISO Certified" title="ISO Certified" style="max-width:85%; margin: 10px 0 0 -20px;" width="350" height="131">
 								</div>
-								<div class="col-md-7"  style="padding:10px; text-align: center">
+								<div class="col-md-6"  style="padding:10px; text-align: center">
 									<a href="https://anab.ansi.org/"><img src="/images/ANAB_Accredited.png" alt="ANAB Accredited" title="ANAB Accredited" style="max-width:100%" width="860" height="695"></a>
 								</div>
 							</div>
@@ -54,7 +54,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row col-p30">
 				<? /*
 				<div class="col-sm-6 col-md-4 col-sm-push-6 col-md-push-4 xs-box">
 					<form action="#" class="footer-subscribe">
@@ -63,10 +63,18 @@
 					</form>
 				</div>
 				*/ ?>
-				<div class="col-sm-12 col-md-12">
-					<img src="/images/ConverterSelect.png" width="1092" height="297" style="height:50px; width: auto; display: inline-block;" />
-					<a id='COCBadgeURL' href='https://www.chamberofcommerce.com/united-states/florida/deerfield-beach/wholesaler/2006473472-advanced-technology-supply-inc?source=memberwebsite' target='_tab'><img style='width:auto;height:80px; margin-left: 10px' id='COCBadgeIMG' src='https://coc.codes/images/badge/2006473472'></a>
+				<div class="col-sm-12 col-md-3">
+					<img src="/images/ConverterSelect.png" width="1092" height="297" style="height:85px; width: auto; display: inline-block;" />
 					<p class="copyright">&copy; Copyright <?=date('Y')?></p>
+				</div>
+				<div class="col-sm-12 col-md-3">
+					<a id='COCBadgeURL' href='https://www.chamberofcommerce.com/united-states/florida/deerfield-beach/wholesaler/2006473472-advanced-technology-supply-inc?source=memberwebsite' target='_tab'><img style="width:auto;height:100px;" id="COCBadgeIMG" src="https://coc.codes/images/badge/2006473472"></a>
+				</div>
+				<div class="col-sm-12 col-md-3 mt20">
+					<script id="sucuri-s" src="https://cdn.sucuri.net/badge/badge.js" data-s="24" data-i="95f1c9df0c6bc98754dee05c3c0e2ae0492a8334f2" data-p="o" data-c="d" data-t="t"></script>
+				</div>
+				<div class="col-sm-12 col-md-3 mt20">
+					<img src="/images/Made_in_the_USA.png" width="220" height="230" style="height:85px; width: auto; display: inline-block;">
 				</div>
 			</div>
 		</div>
