@@ -42,6 +42,9 @@ include 'inc_header.php'; ?>
 					<p class="mt20"><strong>Becoming a 3M&trade; Select Converter</strong></p>
 					<p>Becoming a 3M&trade; Select Converter is not easy and not every manufacturer can be given this coveted status.  An extremely rigorous process is necessary to attain the status of &lsquo;Select Converter&rsquo; which is why it is so carefully awarded by 3M.</p>
 					<p>Before being awarded this honor, 3M&trade; assessed many of the processes here at ATS.  We completed product-specific training sessions and successfully demonstrated the high volume of 3M&trade; materials being used by ATS for products that we produce for our customers.</p>
+					<img src="/images/3M_Medical_Materials_Technologies_Select_Converter.png" width="969" height="579" style="height:150px; width:auto;" />
+					<p  class="mt20"><strong>3M&trade; Select Medical Materials &amp; Technologies Converter</strong></p>
+					<p>To further enhance our valued partnership with 3M&trade; we are also delighted to be a <strong>3M&trade; Preferred Medical Materials &amp; Technologies Converter</strong>&nbsp;servicing the Medical and Healthcare Industries. Our expert team can provide customers with innovative, quality Medical Tape products and confidential design support. To be given this status, ATS had to meet strict guidelines to be recognized as industry experts and leaders within their field.</p>
 				</div>
 			</div>
 		</div>
