@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/sheeting-services.jpg" alt="Belt Fabrication" title="Belt Fabrication" width="440" height="293">
+					<img class="blog-post-image" src="/images/sheeting-services.jpg" alt="Sheeting Service – Film and Fabric Conversion by Advanced Technology Supply, Inc" title="Sheeting Service – Film and Fabric Conversion by Advanced Technology Supply, Inc" width="440" height="293">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">Sheeting Services</h1>
