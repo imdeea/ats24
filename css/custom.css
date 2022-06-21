@@ -72,6 +72,12 @@
 .logo{
     background-size: contain;
 }
+.navbar-holder{
+    position: static;
+}
+.main-header {
+    position: relative;
+}
 /****************** BLOG **********************/
 .blog-post {
     -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;

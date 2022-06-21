@@ -16,7 +16,10 @@ include 'inc_header.php'; ?>
 					<p>These belts find applications such as Blister pack die carriers, Conveyorized food processing, Screen Printing (tee shirts), Side/Base/Auto packing machinery, Resoldering & ink drying cable assemblies or circuit boards, Textile finishing, Garment Fusing, Rubber profile extrusions, and others.</p>
 
 					<p>The same material can be utilized for Shrink tunnel curtains, Heat sealing surfaces, Release sheets & Carriers.</p>
-
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
 					<h2>Why Teflon and Silicone?</h2>
 					<p>Advanced Technology Supply only uses Teflon and&nbsp;Silicone Coated Fabrics&nbsp;for belt fabrication due to their advantageous properties.</p>
 					<p>Silicone-coated fabrics are thin, flexible, durable, and paradoxically, dimensionally stable. The exact type of properties suited for belting. Silicone rubber is easily coated and can be cut to the exact specifications with our precision slitting machinery.</p>

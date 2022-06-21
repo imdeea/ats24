@@ -21,8 +21,8 @@
 	<link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.css">
 
 	<!-- Main CSS file -->
-	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/custom.css?v1.0">
+	<link rel="stylesheet" href="/css/style.css?v=1.0">
+	<link rel="stylesheet" href="/css/custom.css?v1.3">
 	<link rel="shortcut icon" href="/images/favicon.png">
 </head>
 <body>
@@ -44,10 +44,10 @@
 		<div class="topbar gray">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-6 hidden-xs phone">
+					<div class="col-sm-4 hidden-xs phone">
 
 					</div>
-					<div class="col-sm-6">
+					<div class="col-sm-8">
 						<div class="pull-right">
 							<? /*
 							<ul class="top-menu">
@@ -114,12 +114,16 @@
 												<li><a href="/rotary-die-cutting.php"><i class="fal fa-compact-disc fa-style2"></i> Rotary Die Cutting</a></li>
 												<? /*<li><a href="/liquid-injection-molding.php"><i class="fal fa-water fa-style2"></i> Liquid Injection Molding</a></li>
 												*/ ?><li><a href="/steel-rule-die-cutting.php"><i class="fal fa-ruler-triangle fa-style2"></i> Steel Rule Die Cutting</a></li>
+												<li><a href="/rapid-turn-prototyping.php"><i class="fal fa-tachometer-fastest fa-style2"></i> Rapid Turn Prototyping</a></li>
+												<li><a href="/sheeting-services.php"><i class="fal fa-sticky-note fa-style2"></i> Sheeting Services</a></li>
 											</ul>
 										</div>
 										 <div class="col-6">
 											<ul class="megamenu-list">
 												<li><a href="/single-knife-slitting.php"><i class="fal fa-scalpel fa-style2"></i> Single Knife Slitting</a></li>
 												<li><a href="/water-jet-cutting.php"><i class="far fa-tint fa-style2"></i> Waterjet Cutting</a></li>
+												<li><a href="/laminating-services.php"><i class="far fa-scroll fa-style2"></i> Lamination</a></li>
+												<li><a href="/belting-fabrication.php"><i class="far fa-bacon fa-style2"></i> Belt Fabrication</a></li>
 											</ul>
 										</div>
 											</div>
