@@ -572,7 +572,7 @@ https://www.pantone.com/color-finder/425-C
 		width: 100%;
 		padding: 0;
 		margin: 0;
-		position: relative;
+		position: static;
 		float: left;
 		list-style: none;
 	}
