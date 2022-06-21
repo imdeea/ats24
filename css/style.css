@@ -114,7 +114,7 @@ https://www.pantone.com/color-finder/425-C
 	h2 {
 		font-size: 36px;
 		line-height: 38px;
-		margin: 0 0 35px 0;
+		margin: 20px 0;
 	}
 	h3 {
 		font-size: 28px;
@@ -1756,7 +1756,7 @@ https://www.pantone.com/color-finder/425-C
 	/* Intro Paragraph */
 	.intro-p {
 		color:#eaecf1;
-		font-size:13px;
+		font-size:16px;
 		margin-bottom: 0;
 		font-family: "Montserrat",sans-serif;
 		opacity:0.9;
