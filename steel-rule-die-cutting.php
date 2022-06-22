@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/steel-rule-die-cutting.png" alt="Steel Rule Die Cutting" title="Steel Rule Die Cutting" width="450" height="338">
+					<img class="blog-post-image" src="/images/steel-rule-die-cutting.png" alt="Steel Rule Die Cutting Services by ATS - Die Cutting Elastomers" title="Steel Rule Die Cutting Services by ATS - Die Cutting Elastomers" width="450" height="338">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">Steel Rule Die Cutting Services</h1>

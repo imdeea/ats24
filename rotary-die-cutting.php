@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/rotary-die-cutting.png" alt="Rotary Die Cutting" title="Rotary Die Cutting" width="450" height="338">
+					<img class="blog-post-image" src="/images/rotary-die-cutting.png" alt="Rotary Die Cutting Machinery (Slicing Tape, Films, Fabrics)" title="Rotary Die Cutting Machinery (Slicing Tape, Films, Fabrics)" width="450" height="338">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class=" mb20">Rotary Die Cutting Services</h1>

@@ -7,7 +7,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/coated-fabrics-films.png" alt="Coated Fabrics and Films" title="Coated Fabrics and Films" width="450" height="300">
+					<img class="blog-post-image" src="/images/coated-fabrics-films.png" alt="Silicone Coated Fabric and Film roll for Belt Fabrication" title="Silicone Coated Fabric and Film roll for Belt Fabrication" width="450" height="300">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class=" mb20">Coated Fabrics and Films</h1>

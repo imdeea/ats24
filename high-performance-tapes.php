@@ -7,7 +7,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/p0959.png" alt="High Performance Tapes" title="High Performance Tapes" width="900" height="551">
+					<img class="blog-post-image" src="/images/p0959.png" alt="Pressure Sensitive Tapes for US Military from Advanced Technology Supply, Inc" title="Pressure Sensitive Tapes for US Military from Advanced Technology Supply, Inc" width="900" height="549">
 					<h3>Benefits of Pressure Sensitive Tape</h3>
 					<ul>
 					<li>Uses thinner and lighter materials making it easy to work with</li>

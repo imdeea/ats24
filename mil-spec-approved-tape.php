@@ -1,24 +1,13 @@
 <?
 $title = 'MIL-SPEC Tape | Rubber Materials | Military Applications | ATS 24';
 $meta_descr = 'Advanced Technology Supply, Inc. can supply tape products & rubber products that meet Mil-Spec requirements for specific military applications. Contact us';
-$schema = "<script type='application/ld+json'>
-{
-  \"@context\": \"http://www.schema.org\",
-  \"@type\": \"product\",
-  \"brand\": \"Advanced Technology Supply, Inc\",
-  \"name\": \"MIL-SPEC Approved Tape and Rubber Materials\",
-  \"url\": \"https://ats24.com/mil-spec-approved-tape.php\",
-  \"image\": \"https://ats24.com/images/mil-spec-approved-tape.png\",
-  \"description\": \"Advanced Technology Supply, Inc. can supply tape products & rubber products that meet Mil-Spec requirements for specific military applications. \n\"
-}
- </script>";
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="images/mil-spec-approved-tape.png" alt="MIL-SPEC Approved Tape" title="MIL-SPEC Approved Tape" width="450" height="446">
+					<img class="blog-post-image" src="images/mil-spec-approved-tape.png" alt="MIL-SPEC Approved Tape – for Insulation, Electrical, PTFE and Glass Fibre" title="MIL-SPEC Approved Tape – for Insulation, Electrical, PTFE and Glass Fibre" width="450" height="446">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">MIL-SPEC Approved Tape and Rubber Materials</h1>

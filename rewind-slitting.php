@@ -18,7 +18,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
-					<img class="blog-post-image" src="/images/rewind-slitting.png" alt="Rewind Slitting" title="Rewind Slitting" width="450" height="338">
+					<img class="blog-post-image" src="/images/rewind-slitting.png" alt="Rewind Slitting Services in Deerfield Beach, Florida, for Razor Slitting & Surface Rewinding" title="Rewind Slitting Services in Deerfield Beach, Florida, for Razor Slitting & Surface Rewinding" width="450" height="338">
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">Rewind Slitting Services</h1>
