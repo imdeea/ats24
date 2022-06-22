@@ -1,5 +1,5 @@
 <?
-$title = 'Applications for the Aircraft & Aerospace Industry | ATS 24';
+$title = 'Aerospace Tape and Rubber Applications for Aircraft Industry';
 $meta_descr = 'We provide durable and reliable high-quality products for the airline and aerospace industry at cost-effective rates. Contact us directly for information';
 include 'inc_header.php'; ?>
 

@@ -1,5 +1,5 @@
 <?
-$title = 'Applications for Industrial Products | Tape Slicing | ATS 24 - US';
+$title = 'Industrial Product Applications | Tape Splicing | Liquid Gasketing';
 $meta_descr = 'We offer a range of industrial tape and rubber products to help deal with Cushioning, Vibration, Thermal Insulation, Thermal Transfer, Gap-Filling and more';
 include 'inc_header.php'; ?>
 

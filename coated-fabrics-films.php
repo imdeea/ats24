@@ -1,6 +1,6 @@
 <?
-$title = 'Coated Fabrics and Films | Belt Fabrication | ATS 24';
-$meta_descr = 'ATS, Inc. fabricates belts from Teflon and Silicone Coated Fabrics for a variety of applications. For complete details, contact us for more information.';
+$title = 'Coated Fabrics and Films | Silicone Coated Fabrics - ATS24';
+$meta_descr = 'ATS coat various applications such as belts in Teflon & Silicone Coated Fabrics due to their excellent properties. Contact us for information';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">

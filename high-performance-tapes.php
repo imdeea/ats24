@@ -1,5 +1,5 @@
 <?
-$title = 'High Performance Pressure Sensitive Tapes - Available at ATS 24';
+$title = 'High Performance Tape | Pressure Sensitive Tapes | Slitting';
 $meta_descr = 'ATS 24, Inc. has a comprehensive line of pressure-sensitive tapes, with an array of fabrication capabilities such as single knife and rewind slitting. ';
 include 'inc_header.php'; ?>
 
