@@ -22,22 +22,30 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class=" mb20">Rotary Die Cutting Services</h1>
-					<p class="mb30">
-						Successfully meeting the needs of multiple industries, including the military, our <b>rotary die cutting services</b> can be applied to a wide assortment of materials, including foil, fiber, plastic, and rubber. Our rotary die cutting machinery produces pressure sensitive tapes, fabrics, films, and thin elastomers "kiss cut" to a client's particular shape or pattern. We can also use our rotary die cutting operations to cut a variety of tape, such as single and double coated, transfer, duct, and masking. We can <b>slice tape</b> measuring up to 100 yards long and between 0.5 to 25 millimeters thick - meeting tight precision tolerances of (+/-) .010 of an inch.
-						<br><br>
-						Rotary die cutting offers a number of unique advantages. Rotary dies can cut the material down to but not through the liner. Additionally, the liner may be underscored for easy removal from the die cut part. This equipment can also be used to apply pressure sensitive adhesive to elastomers, films, and fabrics, as well as introduce release liners in continuous lengths. Finally, and most advantageously, rotary die cutting allows us to "join" different materials in order to take advantage of the properties of each material.
-						<br><br>
-						Our die cut products include air filters, conveyor belts, magnets, and rubber goods. Our ISO compliant rotary die cutting operations meet military specifications. We handle small to medium production runs in short lead times and can even help you select the appropriate material for your application.  <a href="contact.php">Contact</a> Advanced Technology today for more information about our top-notch rotary die cutting capabilities.
-					</p>
-					<div class="col-sm-12 col-md-12 text-right mt30">
-						<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
-					</div>
+						<p>Successfully meeting the needs of multiple industries, including the military, our <b>rotary die cutting services</b> can be applied to a wide assortment of materials, including foil, fiber, plastic, and rubber. Our rotary die cutting machinery produces pressure sensitive tapes, fabrics, films, and thin elastomers "kiss cut" to a client's particular shape or pattern. We can also use our rotary die cutting operations to cut a variety of tape, such as single and double coated, transfer, duct, and masking. We can <b>slice tape</b> measuring up to 100 yards long and between 0.5 to 25 millimeters thick - meeting tight precision tolerances of (+/-) .010 of an inch.</p>
+
 				</div>
 
 			</div>
+            <div class="row">
+				<div class="col-md-6 mb30">
+                    <p>Rotary die cutting offers a number of unique advantages. Rotary dies can cut the material down to but not through the liner. Additionally, the liner may be underscored for easy removal from the die cut part. This equipment can also be used to apply pressure sensitive adhesive to elastomers, films, and fabrics, as well as introduce release liners in continuous lengths. Finally, and most advantageously, rotary die cutting allows us to "join" different materials in order to take advantage of the properties of each material.</p>
+				    <p class="mb30">Our die cut products include air filters, conveyor belts, magnets, and rubber goods. Our ISO compliant rotary die cutting operations meet military specifications. We handle small to medium production runs in short lead times and can even help you select the appropriate material for your application.  <a href="contact.php">Contact</a> Advanced Technology today for more information about our top-notch rotary die cutting capabilities.</p>
+                    <div class="col-sm-12 col-md-12 text-right mt30">
+                        <a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+                    </div>
+				</div>
+				<div class="col-md-5 offset-md-1 col-md-push-1">
+					<div id="see_more">
+						Click to see more of our Rotary Die Cutting
+						<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a>
+						below.
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="portfolio"></a>
 	<section class="section">
 		<div class="container">
 			<div class="row">
@@ -85,7 +93,7 @@ include 'inc_header.php'; ?>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="capabilities"></a>
 	<section class=" section-bg mt0 mb0" style="background: #fff;">
 		<div class="container">
 			<div class="row">
@@ -327,7 +335,16 @@ include 'inc_header.php'; ?>
 		border: 1px solid #ccc;
 		border-collapse: collapse;
 	}
-
+    .btn-b { margin: 0 3px; background-color: #c9c9c9;}
+	#see_more {
+	    text-align: center;
+	    line-height: 42px;
+	    background: #e3e3e3;
+	    padding: 15px;
+	}
+	@media (max-width:767px) {
+		#see_more { margin-bottom:30px; }
+	}
 	</style>
 
 

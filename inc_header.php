@@ -13,7 +13,7 @@
 	<!-- CSS files -->
 	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700|Russo+One' rel='stylesheet'>
 	<link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/css/font-awesome.css">
+	<script src="https://kit.fontawesome.com/baaf61aab8.js" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="/plugins/elegant_font/html_css/style.css">
 
 
@@ -22,7 +22,7 @@
 
 	<!-- Main CSS file -->
 	<link rel="stylesheet" href="/css/style.css?v=1.0">
-	<link rel="stylesheet" href="/css/custom.css?v1.3">
+	<link rel="stylesheet" href="/css/custom.css?v1.9">
 	<link rel="shortcut icon" href="/images/favicon.png">
 </head>
 <body>
@@ -92,7 +92,10 @@
 												<ul  class="submenu">
 													<li><a href="/3m.php">3M</a></li>
 													<li><a href="/saint-gobain.php">Saint-Gobain</a></li>
-
+													<li><a href="/afc.php">AFC Materials Group</a></li>
+													<li><a href="/breyden.php">Breyden Products</a></li>
+													<li><a href="/dewal.php">Dewal</a></li>
+													<li><a href="/nitto.php">Nitto Denko</a></li>
 												</ul>
 											</li>
 										</ul>

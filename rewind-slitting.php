@@ -22,19 +22,28 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">Rewind Slitting Services</h1>
-					<p class="mb30">
-						Advanced Technology Supply, Inc. performs a variety of <b>rewind slitting services</b>, including perforating, razor slitting, and surface winding. This highly effective method of cutting tape offers tight, (+/-) .005 of an inch precision tolerances and crisp adhesive edges, and allows us to cut the precise roll width and length measurements required by our client. We can manage small to medium production runs within same day lead times (if inventory is in stock).
-						<br></br>
-						Our rewind slitting operations work with a wide variety of tape products, including transfer, single and double coated, duct, and masking - just to name a few. We also work with a wide variety of alternative substances. For example, our <b>single knife slitting is also used for films, fabrics, and elastomers</b>. At Advanced Technology Supply, Inc., we stock our own material, but can also slit and rewound material provided by our clients. Our top-notch rewind slitting services have met the needs of multiple industries, including the military. <a href="contact.php">Contact</a> our company today to learn more!
-					</p>
+					<p>Advanced Technology Supply, Inc. performs a variety of <b>rewind slitting services</b>, including perforating, razor slitting, and surface winding. This highly effective method of cutting tape offers tight, (+/-) .005 of an inch precision tolerances and crisp adhesive edges, and allows us to cut the precise roll width and length measurements required by our client. We can manage small to medium production runs within same day lead times (if inventory is in stock).</p>
+                    <p>Our rewind slitting operations work with a wide variety of tape products, including transfer, single and double coated, duct, and masking - just to name a few. </p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 text-right mt30">
-				<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+            <div class="row">
+                	<div class="col-md-6 mb30">
+				<p class="mb30">We also work with a wide variety of alternative substances. For example, our <b>single knife slitting is also used for films, fabrics, and elastomers</b>. At Advanced Technology Supply, Inc., we stock our own material, but can also slit and rewound material provided by our clients. Our top-notch rewind slitting services have met the needs of multiple industries, including the military. <a href="contact.php">Contact</a> our company today to learn more!</p>
+				<div class="col-sm-12 col-md-12 text-right mt30">
+					<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+				</div>
+				</div>
+				<div class="col-md-5 offset-md-1 col-md-push-1">
+					<div id="see_more">
+						Click to see more of our Rewind Slitting
+						<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a>
+						below.
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="portfolio"></a>
 	<section class="section">
 		<div class="container">
 			<div class="row">
@@ -82,7 +91,7 @@ include 'inc_header.php'; ?>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="capabilities"></a>
 	<section class=" section-bg mt0 mb0" style="background: #fff;">
 		<div class="container">
 			<div class="row">
@@ -322,7 +331,16 @@ include 'inc_header.php'; ?>
 		border: 1px solid #ccc;
 		border-collapse: collapse;
 	}
-
+    .btn-b { margin: 0 3px; background-color: #c9c9c9;}
+	#see_more {
+	    text-align: center;
+	    line-height: 42px;
+	    background: #e3e3e3;
+	    padding: 15px;
+	}
+	@media (max-width:767px) {
+		#see_more { margin-bottom:30px; }
+	}
 	</style>
 
 

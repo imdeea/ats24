@@ -24,17 +24,29 @@ include 'inc_header.php'; ?>
 					<h1 class=" mb20">Single Knife Slitting Services</h1>
 					<p class="mb30">
 						Advanced Technology Supply, Inc. offers ISO compliant <b>single knife slitting services</b> that meet the needs of multiple industries, including the military. Just like with our rewind slitting operations, we can stock our own materials, but can also slit and rewound material provided by our clients. However, unlike rewind slitting, single knife slitting allows us to cut through foil materials. Moreover, due to reduced set up time, single knife slitting eliminates the need for large minimum order quantities.
-						<br><br>
-						<b>Single knife slitting is used for tapes, films, fabrics, and elastomers</b>. These materials are slit to width from a master roll (log rolls) measuring between .125 of an inch to 58 inches wide. Typical width tolerances are (+/-) .031 of an inch, depending on the material being slit. However, some products can be single knife slit with tolerance as close as (+/-) .010 of an inch. <a href="contact.php">Contact</a> Advanced Technology today to learn more about our single knife slitting capabilities.
-					</p>
-					<div class="col-sm-12 col-md-12 text-right mt30">
-						<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
-					</div>
+						</p>
+					<p><b>Single knife slitting is used for tapes, films, fabrics, and elastomers</b>.</p>
 				</div>
 			</div>
+            <div class="row">
+                <div class="col-md-6 mb30">
+
+                <p class="mb30"> These materials are slit to width from a master roll (log rolls) measuring between .125 of an inch to 58 inches wide. Typical width tolerances are (+/-) .031 of an inch, depending on the material being slit. However, some products can be single knife slit with tolerance as close as (+/-) .010 of an inch. <a href="contact.php">Contact</a> Advanced Technology today to learn more about our single knife slitting capabilities.</p>
+                <div class="col-sm-12 col-md-12 text-right mt30">
+                    <a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+                </div>
+                </div>
+                <div class="col-md-5 offset-md-1 col-md-push-1">
+                    <div id="see_more">
+                        Click to see more of our Single Knife Slitting
+                        <a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a>
+                        below.
+                    </div>
+                </div>
+            </div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="portfolio"></a>
 	<section class="section">
 		<div class="container">
 			<div class="row">
@@ -82,7 +94,7 @@ include 'inc_header.php'; ?>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="capabilities"></a>
 	<section class=" section-bg mt0 mb0" style="background: #fff;">
 		<div class="container">
 			<div class="row">
@@ -301,7 +313,17 @@ include 'inc_header.php'; ?>
 		border: 1px solid #ccc;
 		border-collapse: collapse;
 	}
-
+    .btn-b { margin: 0 3px; background-color: #c9c9c9;}
+	#see_more {
+	    text-align: center;
+	    line-height: 42px;
+	    background: #e3e3e3;
+	    padding: 15px;
+        margin-top: 30px;
+	}
+	@media (max-width:767px) {
+		#see_more { margin-bottom:30px; }
+	}
 	</style>
 
 

@@ -106,7 +106,7 @@ include 'inc_header.php';
 						<h4 class="title-slider-small uppercased text-right">
 						Splitting<span class="py10"></span>
 						Die cutting<span class="py10"></span>
-						Laminating<br>
+						Lamination<br>
 						Belt Fabrication<span class="py10"></span>
 						Rapid Turn Prototypes
 						</h4>
@@ -197,11 +197,12 @@ include 'inc_header.php';
 		</div>
 	</section>
 
-	<section class="section">
+	<section class="">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
 					<h2 class="title-border">Capabilities</h2>
+					<p class="mb30">ATS combines decades of experience and expertise to provide innovative solutions for businesses worldwide, with our precision engineering <u>capabilities</u>. We can combine our capabilities or utilize them individually to ensure we meet your exact requirements.</p>
 				</div>
 			</div>
 			<div class="row col-p30 mb40">
@@ -245,7 +246,7 @@ include 'inc_header.php';
 					</div>
 				</div>
 			</div>
-			<div class="row col-p30">
+			<div class="row col-p30 mb40">
 				<? /*<div class="col-sm-6 sm-box2">
 					<div class="box-services-b">
 						<div class="box-left"><i class="fal fa-water fa-style2"></i></div>
@@ -260,7 +261,48 @@ include 'inc_header.php';
 						<div class="box-left"><i class="fal fa-ruler-triangle fa-style2"></i></div>
 						<div class="box-right">
 							<a href="steel-rule-die-cutting.php"><h3 class="title-small">Steel Rule Die Cutting</h3></a>
-							<p class="mb10">One of the most cost-effective ways to die cut elastomers measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness</p>
+							<p class="mb10">One of the most cost-effective ways to die cut elastomers measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="box-services-b">
+						<div class="box-left"><i class="fal fa-scroll fa-style2"></i></div>
+						<div class="box-right">
+							<a href="laminating-services.php"><h3 class="title-small">Lamination</h3></a>
+							<p class="mb10">Utilizing various methods and materials to meet client-specific applications and industry adhesive solutions. Our multi-layer laminations can then be die-cut, slit, or sheeted with our machinery.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row col-p30 mb40">
+				<div class="col-sm-6 sm-box2">
+					<div class="box-services-b">
+						<div class="box-left"><i class="fal fa-tachometer-fastest fa-style2"></i></div>
+						<div class="box-right">
+							<a href="rapid-turn-prototyping.php"><h3 class="title-small">Rapid Turn Prototyping</h3></a>
+							<p class="mb10">Most cost-effective way of testing your idea and assessing it’s feasibility, before rapidly turning it to your reality with exceptional quality.</p>
+						</div>
+					</div>
+
+				</div>
+				<div class="col-sm-6">
+					<div class="box-services-b">
+						<div class="box-left"><i class="fal fa-bacon fa-style2"></i></i></div>
+						<div class="box-right">
+							<a href="belting-fabrication.php"><h3 class="title-small">Belt Fabrication</h3></a>
+							<p class="mb10">ATS' combination of experience and innovation provides creative, custom fabrication solutions to improve your belting productivity.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row col-p30 mb40">
+				<div class="col-sm-6 sm-box2">
+					<div class="box-services-b">
+						<div class="box-left"><i class="fal fa-sticky-note fa-style2"></i></div>
+						<div class="box-right">
+							<a href="sheeting-services.php"><h3 class="title-small">Sheeting Services</h3></a>
+							<p class="mb10">We offer a high quality sheeting service to customers who want their supplied materials converted in a timely and efficient manner.</p>
 						</div>
 					</div>
 
@@ -269,7 +311,7 @@ include 'inc_header.php';
 		</div>
 	</section>
 
-	<section class="section">
+	<section class="">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
@@ -358,22 +400,22 @@ include 'inc_header.php';
 			</div>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="/saint-gobain.php" target="_blank"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain" width="317" height="140"></a>
+					<a href="/saint-gobain.php"><img src="images/vendors/saint-gobain.png" alt="Saint-Gobain" width="317" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="/3m.php" target="_blank"><img src="images/vendors/3m.png" alt="3M" width="216" height="140"></a>
+					<a href="/3m.php"><img src="images/vendors/3m.png" alt="3M" width="216" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://afcmaterials.com/" target="_blank"><img src="images/vendors/afc.png" alt="AFC"width="321" height="140"></a>
+					<a href="/afc.php"><img src="images/vendors/afc.png" alt="AFC"width="321" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.breydenproducts.com/" target="_blank"><img src="images/vendors/breyden.png" alt="Breyden" width="473" height="140"></a>
+					<a href="/breyden.php"><img src="images/vendors/breyden.png" alt="Breyden" width="473" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://rogerscorp.com/elastomeric-material-solutions/dewal-products" target="_blank"><img src="images/vendors/dewal.jpg" alt="Dewal" width="300" height="140"></a>
+					<a href="/dewal.php"><img src="images/vendors/dewal.jpg" alt="Dewal" width="300" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
-					<a href="https://www.nitto.com/us/en/" target="_blank"><img src="images/vendors/nitto.jpg" alt="Nitto"width="289" height="140"></a>
+					<a href="/nitto.php"><img src="images/vendors/nitto.jpg" alt="Nitto"width="289" height="140"></a>
 				</div>
 				<div class="col-xs-6 col-sm-3 xs-box">
 					<a href="https://www.stockwell.com/" target="_blank"><img src="images/vendors/stockwell.png" alt="Stockwell Elastomerics" width="297" height="80"></a>

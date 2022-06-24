@@ -52,6 +52,14 @@
     font-style: normal;
     font-display: swap;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+.section-tag{
+  scroll-margin-top: 2em;
+  display: block;
+}
 .intro-p a {
     color: #fff;
 }

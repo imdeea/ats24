@@ -19,34 +19,39 @@ include 'inc_header.php'; ?>
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
 					<img class="blog-post-image" src="/images/water-jet-cutting.png" alt="Two-Axis Water Jet Cutting Machinery for slicing through sponge or solid materails" title="Two-Axis Water Jet Cutting Machinery for slicing through sponge or solid materails" width="450" height="338">
-					<br><br>
-
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class=" mb20">Water Jet Cutting Services</h1>
-					<p class="mb30">
-						Advanced Technology Supply, Inc. has partnered with Stockwell Elastomerics to provide water jet cutting services to our customers. Our two-axis water jet cutting machinery can accurately slice through thick, low durometer solid or sponge materials without the edge concavity usually associated with steel rule die cutting. Moreover, the edges of thick materials are never scorched, unlike what can occur with some laser burning processes. Water jet cutting can even cut adhesive backings with clean shapes.
-						<br><br>
-						Our water jet cutting operations eliminate the need for tooling. Therefore, water jet cutting can quicken lead times and save initial costs, particularly if your design is unproven. We can even provide rapid initial prototypes, especially when supplied with electronic drawing files. With our water jet cutting technology, we can cut washers as small as .25 of an inch and other parts as small as .5 of an inch square.
-						<br><br>
-						Meeting the needs of multiple industries, from semiconductor to automotive, our ISO compliant <b>water jet cutting operations meet military specifications</b> and can manage all low volume production jobs within a quick turnaround period. We are better suited for low to medium-volume production with this service.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about our water jet cutting operations!
-					</p>
-					<div class="col-sm-12 col-md-12 text-right mt30">
-						<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+
+						<p>Advanced Technology Supply, Inc. has partnered with Stockwell Elastomerics to provide water jet cutting services to our customers. Our two-axis water jet cutting machinery can accurately slice through thick, low durometer solid or sponge materials without the edge concavity usually associated with steel rule die cutting. Moreover, the edges of thick materials are never scorched, unlike what can occur with some laser burning processes. Water jet cutting can even cut adhesive backings with clean shapes.</p>
+
+						<p>Our water jet cutting operations eliminate the need for tooling. </p>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 mb30">
+					<p>Therefore, water jet cutting can quicken lead times and save initial costs, particularly if your design is unproven. We can even provide rapid initial prototypes, especially when supplied with electronic drawing files. With our water jet cutting technology, we can cut washers as small as .25 of an inch and other parts as small as .5 of an inch square.</p>
+
+				<p class="mb30">Meeting the needs of multiple industries, from semiconductor to automotive, our ISO compliant <b>water jet cutting operations meet military specifications</b> and can manage all low volume production jobs within a quick turnaround period. We are better suited for low to medium-volume production with this service.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about our water jet cutting operations!</p>
+				<div class="col-sm-12 col-md-12 text-right mt30">
+					<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+				</div>
+				</div>
+				<div class="col-md-5 offset-md-1 col-md-push-1">
+					<div id="see_more">
+						Click to see more of our Water Jet Cutting
+						<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a>
+						below.
 					</div>
 				</div>
 			</div>
-			<a name="portfolio"></a>
+
 		</div>
 	</section>
+	<a class="section-tag" name="portfolio"></a>
+	<section class="section" >
 
-	<section class="section">
-		<div id="see_more">
-			<div class="container">
-				Click to see more of our <br class="hide-desktop" /> Water Jet Cutting
-				<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> <br class="hide-desktop" /> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a> below.
-			</div>
-		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
@@ -91,10 +96,10 @@ include 'inc_header.php'; ?>
 					</a>
 				</div>
 			</div>
-			<a name="capabilities"></a>
+
 		</div>
 	</section>
-
+	<a class="section-tag" name="capabilities"></a>
 	<section class=" section-bg mt0 mb0" style="background: #fff;">
 		<div class="container">
 			<div class="row">
@@ -344,27 +349,15 @@ include 'inc_header.php'; ?>
 		border-collapse: collapse;
 	}
 
-	.btn-b { margin: 0 3px; }
-	#see_more a {
-	    background: #adaaaa;
-	    color: #fff;
-	}
+	.btn-b { margin: 0 3px; background-color: #c9c9c9;}
 	#see_more {
 	    text-align: center;
 	    line-height: 42px;
-	    background: #e1e0e0;
-	    padding: 20px;
-	    margin-top: 30px;
-	    font-size: 2rem;
-	    font-weight: bold;
+	    background: #e3e3e3;
+	    padding: 15px;
 	}
-	br.hide-desktop {
-	    display: none;
-	}
-	@media screen and (max-width: 600px){
-		br.hide-desktop {
-		    display: block;
-		}
+	@media (max-width:767px) {
+		#see_more { margin-bottom:30px; }
 	}
 	</style>
 

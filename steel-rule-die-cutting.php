@@ -22,19 +22,33 @@ include 'inc_header.php'; ?>
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class="mb20">Steel Rule Die Cutting Services</h1>
-					<p class="mb30">
-						Steel rule die cutting is one of the most cost-effective ways to <b>die cut elastomers</b> measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness. Our steel rule die cutting machinery meets standard tolerances of (+/-) .015 of an inch, but tolerances of (+/-) .010 of an inch or less can also be achieved if the pattern is laser scribed into the wood rather than routed. Please note that edge concavity is typical when steel rule die cutting is performed on soft materials, due to the compression of the elastomer by the die before cutting is initiated.
-						<br><br>
-						With the ability to manage small to medium sized production runs within short lead times, our <b>ISO compliant steel rule die cutting operations meet military specifications</b> and have served the needs of multiple industries. We even offer same day delivery if inventory is in stock. We can also help clients select the right material for their unique application.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about out steel rule die cutting services.
-					</p>
-					<div class="col-sm-12 col-md-12 text-right mt30">
-						<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+
+						<p>Steel rule die cutting is one of the most cost-effective ways to <b>die cut elastomers</b> measuring up to 30 inches in length and width, and 0.5 to 5 millimeters in thickness. Our steel rule die cutting machinery meets standard tolerances of (+/-) .015 of an inch, but tolerances of (+/-) .010 of an inch or less can also be achieved if the pattern is laser scribed into the wood rather than routed. Please note that edge concavity is typical when steel rule die cutting is performed on soft materials, due to the compression of the elastomer by the die before cutting is initiated.</p>
+
+
+
+
+				</div>
+			</div>
+            <div class="row">
+                	<div class="col-md-6 mb30">
+                        <p>With the ability to manage small to medium sized production runs within short lead times, our <b>ISO compliant steel rule die cutting operations meet military specifications</b> and have served the needs of multiple industries. </p>
+				<p class="mb30">We even offer same day delivery if inventory is in stock. We can also help clients select the right material for their unique application.  <a href="contact.php">Contact</a> Advanced Technology Supply today to learn more about out steel rule die cutting services.</p>
+				<div class="col-sm-12 col-md-12 text-right mt30">
+					<a href="request-quote.php" class="btn btn-icon btn-a" style="text-transform: uppercase; font-size: 20px;"><i class="fa fa-file-invoice-dollar" style="font-size: 25px"></i> Request a Quote</a>
+				</div>
+				</div>
+				<div class="col-md-5 offset-md-1 col-md-push-1">
+					<div id="see_more">
+						Click to see more of our Steel Rule Die Cutting
+						<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a>
+						below.
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="portfolio"></a>
 	<section class="section">
 		<div class="container">
 			<div class="row">
@@ -82,7 +96,7 @@ include 'inc_header.php'; ?>
 			</div>
 		</div>
 	</section>
-
+    <a class="section-tag" name="capabilities"></a>
 	<section class=" section-bg mt0 mb0" style="background: #fff;">
 		<div class="container">
 			<div class="row">
@@ -305,7 +319,17 @@ include 'inc_header.php'; ?>
 		border: 1px solid #ccc;
 		border-collapse: collapse;
 	}
-
+    .btn-b { margin: 0 3px; background-color: #c9c9c9;}
+	#see_more {
+	    text-align: center;
+	    line-height: 42px;
+	    background: #e3e3e3;
+	    padding: 15px;
+        margin-top: 30px;
+	}
+	@media (max-width:767px) {
+		#see_more { margin-bottom:30px; }
+	}
 	</style>
 
 
