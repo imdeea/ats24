@@ -1,17 +1,17 @@
 <?
 $title = 'Water Jet Cutting Services | Precision Engineering | ATS 24';
 $meta_descr = 'A better alternative to laser, our water jet cutting operations meet military specs & we can do all low volume production jobs quickly and efficiently';
-$schema = "<script type='application/ld+json'>
+$schema = '<script type="application/ld+json">
 {
-  \"@context\": \"http://www.schema.org\",
-  \"@type\": \"service\",
-  \"brand\": \"Advanced Technology Supply, Inc\",
-  \"url\": \"https://ats24.com/water-jet-cutting.php\",
-  \"name\": \"Water Jet Cutting Services\",
-  \"image\": \"https://ats24.com/images/water-jet-cutting.png\",
-  \"description\": \"A better alternative to laser, our water jet cutting operations meet military specs & we can do all low volume production jobs quickly and efficiently\n\"
+	"@context": "http://www.schema.org",
+	"@type": "service",
+	"brand": "Advanced Technology Supply, Inc",
+	"url": "https://ats24.com/water-jet-cutting.php",
+	"name": "Water Jet Cutting Services",
+	"image": "https://ats24.com/images/water-jet-cutting.png",
+	"description": "A better alternative to laser, our water jet cutting operations meet military specs & we can do all low volume production jobs quickly and efficiently\n"
 }
- </script>";
+ </script>';
 include 'inc_header.php'; ?>
 
 	<section class="section-intro pb0">
@@ -19,6 +19,8 @@ include 'inc_header.php'; ?>
 			<div class="row">
 				<div class="col-md-5 offset-md-1 col-md-push-7">
 					<img class="blog-post-image" src="/images/water-jet-cutting.png" alt="Two-Axis Water Jet Cutting Machinery for slicing through sponge or solid materails" title="Two-Axis Water Jet Cutting Machinery for slicing through sponge or solid materails" width="450" height="338">
+					<br><br>
+
 				</div>
 				<div class="col-md-6 col-md-pull-5">
 					<h1 class=" mb20">Water Jet Cutting Services</h1>
@@ -34,10 +36,17 @@ include 'inc_header.php'; ?>
 					</div>
 				</div>
 			</div>
+			<a name="portfolio"></a>
 		</div>
 	</section>
 
 	<section class="section">
+		<div id="see_more">
+			<div class="container">
+				Click to see more of our <br class="hide-desktop" /> Water Jet Cutting
+				<a href="#capabilities" class="btn btn-icon btn-b"><i class="fas fa-screwdriver-wrench"></i> &nbsp; capabilities</a> <br class="hide-desktop" /> and our <a href="#portfolio" class="btn btn-icon btn-b"><i class="fas fa-briefcase"></i> &nbsp; portfolio</a> below.
+			</div>
+		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
@@ -82,6 +91,7 @@ include 'inc_header.php'; ?>
 					</a>
 				</div>
 			</div>
+			<a name="capabilities"></a>
 		</div>
 	</section>
 
@@ -89,10 +99,7 @@ include 'inc_header.php'; ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-
-				<article class="blog-post-content">
-						<h2 class="mb20">Water Jet Cutting Capabilities</h2>
-				</article>
+					<h2 class="title-border">Water Jet Cutting Capabilities</h2>
 				</div>
 			</div>
 			<div class="row">
@@ -337,6 +344,28 @@ include 'inc_header.php'; ?>
 		border-collapse: collapse;
 	}
 
+	.btn-b { margin: 0 3px; }
+	#see_more a {
+	    background: #adaaaa;
+	    color: #fff;
+	}
+	#see_more {
+	    text-align: center;
+	    line-height: 42px;
+	    background: #e1e0e0;
+	    padding: 20px;
+	    margin-top: 30px;
+	    font-size: 2rem;
+	    font-weight: bold;
+	}
+	br.hide-desktop {
+	    display: none;
+	}
+	@media screen and (max-width: 600px){
+		br.hide-desktop {
+		    display: block;
+		}
+	}
 	</style>
 
 
